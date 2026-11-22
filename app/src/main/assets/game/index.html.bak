@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+<title>WHITE</title>
+<meta name="description" content="WHITE, a puzzle game for one human and one AI.">
+<meta name="theme-color" content="#09090b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2309090b'/%3E%3Ccircle cx='32' cy='30' r='19' fill='%23f2f2f2'/%3E%3Cellipse cx='25' cy='30' rx='4' ry='5.5' fill='%2309090b'/%3E%3Cellipse cx='39' cy='30' rx='4' ry='5.5' fill='%2309090b'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="app/game.css?v=54b8a57145">
+</head>
+<body>
+<div id="app" data-scene="boot">
+
+  <!-- 0. The first time: about the flashing lights (main.js warn()) -->
+  <section id="warn" class="screen" aria-label="Flashing lights">
+    <div class="warn-inner">
+      <p class="warn-k" data-t="warnK">BEFORE YOU PLAY</p>
+      <h1 data-t="warnTitle">WHITE has flashing lights.</h1>
+      <p class="warn-text" data-t="warnText"></p>
+      <div class="warn-btns" id="warn-btns">
+        <button class="mi mi-go" id="warn-ok" type="button"><span class="mi-t" data-t="warnOk">Play as it is</span></button>
+        <button class="mi" id="warn-calm" type="button"><span class="mi-t" data-t="warnCalm">Fewer flashes</span></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 1. Title: the WHITE logo as the intro leaves it, alive (ui/intro.js), and under its letters the menu,
+       one under another: Begin (or Continue), Settings, Credits, Discord (WHITE's server, in your browser),
+       Quit (the desktop app), English · 中文 -->
+  <section id="title" class="screen" aria-label="Title">
+    <img class="logo" id="title-logo" src="assets/logo.png" alt="WHITE" draggable="false" hidden>
+    <p class="title-say" id="title-say" aria-live="polite"><span class="who">WHITE</span><span class="ts-t"></span></p>
+    <nav class="title-row" id="title-menu" aria-label="Menu">
+      <button class="mi mi-go" id="begin" type="button"><span class="mi-t" id="begin-t" data-t="begin">Begin</span><span class="mi-s" id="begin-s"></span></button>
+      <button class="mi" id="t-settings" type="button"><span class="mi-t" data-t="mSettings">Settings</span></button>
+      <button class="mi" id="t-credits" type="button"><span class="mi-t" id="t-credits-t" data-t="mCredits">Credits</span></button>
+      <button class="mi" id="t-discord" type="button"><span class="mi-t"><span data-t="mDiscord">Discord</span><svg class="mi-out" viewBox="0 0 10 10" aria-hidden="true"><path d="M2.5 7.5 7.5 2.5M3.5 2.5h4v4"/></svg></span></button>
+      <button class="mi" id="t-quit" type="button" hidden><span class="mi-t" data-t="mQuit">Quit</span></button>
+      <span class="langs" id="langs" role="group" aria-label="Language · 语言"><button type="button" class="mi mi-lang" data-lang="en" lang="en"><span class="mi-t">English</span></button><i aria-hidden="true">·</i><button type="button" class="mi mi-lang" data-lang="zh" lang="zh-Hans"><span class="mi-t">中文</span></button></span>
+    </nav>
+    <p class="beta-tag" data-t="betaTag">BETA · a test version</p>
+    <p class="corner" id="title-note"></p>
+    <p class="ver" id="title-ver"></p>
+  </section>
+
+  <!-- 2. Do you have the board game? (no: the video game, everything on the screen) -->
+  <section id="ask" class="screen" aria-label="The board game">
+    <div class="ask-inner">
+      <h1 data-t="askTitle">Do you have the WHITE board game?</h1>
+      <p data-t="askText">A box with a handbook, four colour cards and a QR code.</p>
+      <div class="ask-opts">
+        <button class="ask-opt" id="ask-board" type="button">
+          <span class="ask-art cards" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+          <b data-t="askBoard">Yes, I have the box</b>
+          <span data-t="askBoardText">Your camera will see the colour cards you raise.</span>
+        </button>
+        <button class="ask-opt" id="ask-video" type="button">
+          <span class="ask-art onscreen" aria-hidden="true"><span class="scr"><i></i><i></i><i></i><i></i></span><span class="bk"></span></span>
+          <b data-t="askVideo">No, start without it</b>
+          <span data-t="askVideoText">The video game: the four colours and the handbook are on the screen.</span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. Camera permission (the board game) -->
+  <section id="perm" class="screen" aria-label="Camera">
+    <div class="perm-inner">
+      <div class="perm-icon" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+      <h1 data-t="permTitle">Your cards are your voice.</h1>
+      <p data-t="permText">WHITE sees the colour cards through your camera. That is the only way you can answer.</p>
+      <p class="small" data-t="permSmall">The picture stays on this device. Nothing is recorded or sent anywhere.</p>
+      <button class="btn primary" id="perm-ok" type="button" data-t="permOk">OK, use my camera</button>
+      <p class="err" id="perm-err" role="alert"></p>
+      <button class="btn link" id="perm-keys" type="button" data-t="permKeys" hidden>Play with keys instead (1 2 3 4)</button>
+    </div>
+  </section>
+
+  <!-- 4. Tutorial: only your window (your camera, or the four colours on the screen) -->
+  <section id="tutorial" class="screen" aria-label="Tutorial">
+    <div class="tut-head">
+      <p class="tut-step" id="tut-step">1 / 2</p>
+      <h1 id="tut-title"></h1>
+      <p id="tut-text"></p>
+    </div>
+    <div class="win cam-win tut-cam" id="tut-cam">
+      <header><span class="dot live"></span><span data-t="winYou">YOU</span><span class="st" data-t="camera">camera</span></header>
+      <div class="body cam-slot"></div>
+    </div>
+    <p class="tut-foot" id="tut-foot"></p>
+  </section>
+
+  <!-- 5. The game -->
+  <main id="game" class="screen" aria-label="White">
+    <section class="win" id="w-white" aria-label="White">
+      <header><span class="dot"></span>WHITE<span class="st" id="w-white-st">context 3.41%</span></header>
+      <div class="body">
+        <div id="stage" aria-hidden="true"><canvas id="gl"></canvas><canvas id="ov"></canvas></div>
+        <canvas class="static" id="white-static" aria-hidden="true"></canvas>
+        <div class="white-note" id="white-note"></div>
+      </div>
+    </section>
+    <section class="win cam-win" id="w-you" aria-label="You">
+      <header><span class="dot live"></span><span data-t="winYou">YOU</span><span class="st" id="w-you-st" data-t="camera">camera</span></header>
+      <div class="body cam-slot"></div>
+    </section>
+    <section class="win" id="w-vision" aria-label="White's vision">
+      <header><span class="dot"></span>VISION<span class="st" id="w-vision-st">W-0417</span></header>
+      <div class="body" id="vision"></div>
+    </section>
+    <section class="win" id="w-log" aria-label="Conversation">
+      <header><span class="dot"></span>LOG<span class="st" id="w-log-st"></span></header>
+      <div class="body"><div id="log" aria-live="polite"></div></div>
+    </section>
+    <div id="dim" aria-hidden="true"></div>
+    <div id="choices" role="dialog" aria-label="Answer with a card"></div>
+  </main>
+
+  <!-- what is left after the endings "Gone" and "We Tried" -->
+  <section id="gone" class="screen" aria-label="Nothing"><p id="gone-text">W-0417 · NOT FOUND</p></section>
+
+  <!-- full-screen cards between scenes ("Three days later.") and the endings -->
+  <div id="cut" aria-live="polite"></div>
+  <!-- the menu (Esc), and the title's Settings and Credits: ui/menu.js -->
+  <div id="menu" hidden></div>
+  <button class="mute" id="mute" type="button" aria-label="Sound on or off" title="Sound (M)"></button>
+  <button class="menu-btn" id="menu-btn" type="button" aria-label="Menu" title="Menu (Esc)"></button>
+  <aside id="side" hidden></aside>
+</div>
+<script>window.WHITE_SITE = true; window.WHITE_V = "c097d26409";</script>
+<script>window.WHITE_ALPHA = true;   /* (round 3: his canvas can be see-through, for his wake-up over the night: ui/wake.js) */</script>
+<script src="app/assets.js?v=588397d46d"></script>
+<script src="app/white-engine.js?v=02b55ae913"></script>
+<script src="app/game.js?v=9fbb0d979a"></script>
+<script src="app/mod-loader.js"></script>
+<script src="app/console.js"></script>
+<script>alert("WHITE 注入生效！");</script>
+</body>
+</html>

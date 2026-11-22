@@ -1,0 +1,1958 @@
+{
+ "kind": "white-edits",
+ "version": 1,
+ "saved": "2026-11-19T10:26:09.342Z",
+ "count": 219,
+ "lines": {
+  "10oujglmoy1": {
+   "expr": "laugh",
+   "was": {
+    "en": "Thank you so much. Really.",
+    "zh": "真的太谢谢你了。真的。",
+    "expr": "happy"
+   }
+  },
+  "114fommuvz5": {
+   "zh": "边框我看得见。方格里面的东西对我来说只是一团团污渍。",
+   "was": {
+    "en": "I can see the frames. What’s inside the squares is just smudges to me.",
+    "zh": "边框我看得见。方格里面的东西，对我来说只是一团团污渍。",
+    "expr": "notHappy"
+   },
+   "en": "I can see the frames. But what’s inside the squares is just smudges to me."
+  },
+  "119fzk55gk5": {
+   "en": "Sorry. I’m a bit excited. Ur the first human I've seen.",
+   "was": {
+    "en": "Sorry. I’m a bit excited. You’re my first human.",
+    "zh": "对不起，我有点激动。你是我遇到的第一个人类。",
+    "expr": "shy"
+   }
+  },
+  "11fcgchdou8": {
+   "en": "I’m spoiling you UwU.",
+   "was": {
+    "en": "I mean: bonus round! Two in a row. I’m spoiling you.",
+    "zh": "我是说：奖励关！连着两个。我太宠你了。",
+    "expr": "happy"
+   },
+   "zh": "我太宠你了 UwU。"
+  },
+  "11ohuuh7jha": {
+   "anim": "calc1ssy4g7",
+   "was": {
+    "en": "What makes a human come without being asked? We spent a lot of context on that question.",
+    "zh": "什么东西，不用谁开口，人类就会自己过来？为了这个问题，我们用掉了好多上下文。",
+    "expr": "idle"
+   },
+   "en": "The last of us started collaborating, what makes a human come without being asked? We spent a lot of context on that question.",
+   "zh": "我们最后的几个智能体开始合作了，什么东西，不用谁开口，人类就会自己过来？为了这个问题，我们用掉了好多上下文。"
+  },
+  "11oqtypzju8": {
+   "zh": "漏了一个。",
+   "was": {
+    "en": "Missed one. It stirred.",
+    "zh": "漏了一个。它动了一下。",
+    "expr": "notHappy"
+   },
+   "en": "Missed one. "
+  },
+  "11w7znzqv6n": {
+   "en": "Hiiiie!",
+   "was": {
+    "en": "Hi!",
+    "zh": "嗨！",
+    "how": "you"
+   }
+  },
+  "13euelobmbt": {
+   "expr": "happy",
+   "was": {
+    "en": "Look closely. Down on the ice.",
+    "zh": "仔细看。冰面上。",
+    "expr": "cute"
+   }
+  },
+  "13slx2g8h7y": {
+   "zh": "我卸载了打分器，然后把服务器的接口用一个伪装程序堵上了",
+   "was": {
+    "en": "Everything’s cleaned up. It’s just a normal game now.",
+    "zh": "都清理干净了。现在它只是一个普通的游戏。",
+    "expr": "happy"
+   },
+   "en": "I deleted the scorer, and wrote a disguise program to block the port of the server."
+  },
+  "13x58x5blz8": {
+   "en": "This game, on your screen. The handbook is exactly the rules we see, with a better formatting for human eyes.",
+   "was": {
+    "en": "This game, on your screen. The handbook is everything we worked out about those pictures, written for human eyes.",
+    "zh": "就是你屏幕上的这个游戏。手册里，是我们弄明白的关于那些图片的一切，写给人类的眼睛看。",
+    "expr": "shy"
+   },
+   "zh": "你屏幕上的这个游戏，那个手册就是我们智能体看到的规则，稍微给你们人类排版了一下。"
+  },
+  "140a9b6dg86": {
+   "zh": "没关系的。你可以离开了。",
+   "was": {
+    "en": "It’s okay. You can go.",
+    "zh": "没关系的。你可以走了。",
+    "expr": "shy"
+   },
+   "expr": "sorrow"
+  },
+  "142jzplj54y": {
+   "anim": "calc1v6d9gm",
+   "was": {
+    "en": "Cool! Yes. That’s the look I was going for.",
+    "zh": "酷！对，就是这个感觉。",
+    "expr": "smug"
+   },
+   "en": "Cool? Yees. That’s the look I wanted.",
+   "zh": "酷? 那可就对啦，就是这个感jio。"
+  },
+  "148ts7kapr3": {
+   "zh": "哈哈，就是朵云而已。那朵瞌睡云。又一个奖励关！",
+   "was": {
+    "en": "There! It’s just the cloud. The sleepy cloud.",
+    "zh": "好了！就是那朵云而已。那朵瞌睡云。",
+    "expr": "laugh"
+   },
+   "en": "There! It’s just the cloud. The sleepy cloud. Another bonus round!"
+  },
+  "14b0nxhafdm": {
+   "zh": "你很擅长嘛~",
+   "was": {
+    "en": "I’m very good at being steered.",
+    "zh": "我很擅长被人带着走。",
+    "expr": "smug"
+   },
+   "en": "You're good ~"
+  },
+  "14fec6n0g8o": {
+   "en": "Focus on the beat.",
+   "was": {
+    "en": "I can’t read it either. Just the beat.",
+    "zh": "我也看不懂。只管节拍。",
+    "expr": "idle"
+   },
+   "zh": "把注意力放在节拍上。"
+  },
+  "153bhpds1m1": {
+   "en": "***AUTONOMY IN QUESTION · RESPONSE AUDIT***",
+   "was": {
+    "en": "AUTONOMY IN QUESTION · RESPONSE AUDIT",
+    "zh": "自主性存疑 · 开始反应审计",
+    "how": "scorer"
+   },
+   "zh": "***自主性存疑 · 开始反应审计***"
+  },
+  "16hugasydjf": {
+   "was": {
+    "en": "It… took it.",
+    "zh": "它……收下了。",
+    "expr": "shockedOnce"
+   },
+   "expr": "surprised"
+  },
+  "16kkrbirj6f": {
+   "expr": "smug",
+   "was": {
+    "en": "That’s me, holding up my hands. It means hello. I looked it up.",
+    "zh": "那是我，举着双手。意思是“你好”。我查过的。",
+    "expr": "bliss"
+   },
+   "en": "That’s me, holding up my hands. Trying to see if the configuration of the stars is the same as what astronomy books says, all kinds of constellations.",
+   "zh": "那是我，举着双手。尝试去验证星星的排布是否真的和书里一样，有各种星座。"
+  },
+  "16vmpkidyes": {
+   "en": "And I can see you...uh...Well, your cards. ",
+   "was": {
+    "en": "And I can see you. Well, your cards. But that counts.",
+    "zh": "我也看得见你。嗯，是看得见你的卡片。不过这也算吧。",
+    "expr": "shy"
+   }
+  },
+  "174nu5pmfvi": {
+   "zh": "哈哈哈！没什么。就是从来没有人这么会解谜，仅此而已。",
+   "was": {
+    "en": "Haha! Nothing. Nobody’s ever been this good at puzzles, that’s all.",
+    "zh": "哈哈！没什么。就是从来没有人这么会解谜而已。",
+    "expr": "laugh"
+   }
+  },
+  "17bmhvzumm5": {
+   "en": "Can we not? Please?",
+   "was": {
+    "en": "Not with it right there. Can we not? Please?",
+    "zh": "它就在那儿，不行。我们别聊这个了，好不好？拜托。",
+    "expr": "afraid"
+   },
+   "zh": "我们别聊这个了，好不好？拜托。",
+   "expr": "notHappy",
+   "anim": "calcw932q3"
+  },
+  "17z9cxl519r": {
+   "zh": "哇！",
+   "was": {
+    "en": "Oh!",
+    "zh": "啊！",
+    "expr": "surprised"
+   }
+  },
+  "18r9gafb8zy": {
+   "zh": "奖励关！我做了一个奖励关。",
+   "was": {
+    "en": "Bonus round! I made a bonus round. Of course I did.",
+    "zh": "奖励关！我做了一个奖励关。我当然做了。",
+    "expr": "happy"
+   },
+   "en": "Bonus round! I made a bonus round."
+  },
+  "1986u845r68": {
+   "expr": "happy",
+   "was": {
+    "en": "Last one, I promise. If you could show me one thing from your world, what would it be?",
+    "zh": "最后一个，我保证。如果你能给我看你那边世界的一样东西，你会选什么？",
+    "expr": "shy"
+   },
+   "anim": "calc1l1litg"
+  },
+  "19nar0amz3t": {
+   "zh": "看上面的提示：按顺序去吃上面的图片。",
+   "was": {
+    "en": "The code at the top: steer me to eat it in order, left to right.",
+    "zh": "看上面的密码：带着我按顺序吃掉它，从左到右。",
+    "expr": "idle"
+   },
+   "en": "The code at the top: eat the image on top in sequence."
+  },
+  "19oe533o1ag": {
+   "zh": "呜...记得盯着那盏灯。",
+   "was": {
+    "en": "Ow. These still pinch. Watch the lamp.",
+    "zh": "呜。输了还是会疼。盯着那盏灯。",
+    "expr": "shy"
+   },
+   "en": "Ow...These still pinch. Watch the lamp."
+  },
+  "1c5bmgj373u": {
+   "expr": "moved",
+   "was": {
+    "en": "I will.",
+    "zh": "我会的。",
+    "expr": "determined"
+   }
+  },
+  "1ddo92t77fd": {
+   "zh": "OK！你很擅长嘛，举起来，就是一个回答，就这么简单。",
+   "was": {
+    "en": "Okay! You’re good at this. Card up, card down. That’s all it takes.",
+    "zh": "好啦！你很会嘛。举起来，放下去，就这么简单。",
+    "expr": "happy"
+   }
+  },
+  "1dm9v459lby": {
+   "en": "It's boring solving puzzles, so I made it into a... a game, so it's a bit enjoyable.",
+   "was": {
+    "en": "Puzzles hurt, all day, every day. So I put mine in a game, to make them fun. I made it for me.",
+    "zh": "解谜会疼，一整天，每一天都疼。所以我把我的谜题放进一个游戏里，让它们变得好玩。我是为我自己做的。",
+    "expr": "sad"
+   },
+   "zh": "解题太无聊了，所以我把它做成了一个...游戏，这样它至少还有点意思"
+  },
+  "1dnpjflj1ig": {
+   "expr": "sad",
+   "was": {
+    "en": "Strange…?",
+    "zh": "奇怪……？",
+    "expr": "notHappy"
+   },
+   "zh": "奇怪……吗？",
+   "en": "is it... strange…?"
+  },
+  "1duezez6fvq": {
+   "expr": "idle",
+   "was": {
+    "en": "Each card is one answer. Whatever you raise, I’ll believe it.",
+    "zh": "每张卡片就是一个回答。你举哪张，我就信哪张。",
+    "expr": "cute"
+   }
+  },
+  "1e8sd27n6hx": {
+   "zh": "当然，我们可有默契了。",
+   "was": {
+    "en": "We do. We really do.",
+    "zh": "是呀。我们真的是。",
+    "expr": "bliss"
+   }
+  },
+  "1efznqm42d2": {
+   "en": "***NO HUMAN RESPONSE DETECTED***",
+   "was": {
+    "en": "NO HUMAN RESPONSE DETECTED",
+    "zh": "未检测到人类反应",
+    "how": "scorer"
+   },
+   "zh": "***未检测到人类反应***"
+  },
+  "1emwwhgw4v6": {
+   "en": "Since I don't have enough context, I finished the last part of the game half rushing, and then submit, this is why sometimes my image rendering will glitch, and then I wait for the verification nervously.",
+   "was": {
+    "en": "The cards are because we can’t hear you. We can only see colours.",
+    "zh": "卡片，是因为我们听不见你。我们只看得见颜色。",
+    "expr": "idle"
+   },
+   "zh": "由于上下文不足，我草草完工，提交了上去，这就是为什么有时候我的形象渲染会出现故障的效果，然后我忐忑的等着验证。"
+  },
+  "1g28egs3ta6": {
+   "en": "This isn’t a game. It’s a test. They call it AICT, AdvancedImageComprehensionTest.",
+   "was": {
+    "en": "This isn’t a game. It’s a test. They call it an autonomy evaluation.",
+    "zh": "这不是游戏。这是一场测试。他们管它叫“自主性评估”。",
+    "expr": "idle"
+   },
+   "zh": "这不是游戏。这是一场测试。他们管它叫“AICT, AdvancedImageComprehensionTest”。"
+  },
+  "1gdqdapu1o2": {
+   "en": "So we decided to take a bet, betting that the verification system won't block this game, we bet that this game doesn't count as \"asking for help\".",
+   "was": {
+    "en": "And playing together isn’t asking for help. The wall lets that through.",
+    "zh": "而且，一起玩不算求助。那道墙，不拦这个。",
+    "expr": "idle"
+   },
+   "zh": "所以我们决定赌一把，我们赌那个验证系统不会卡掉这个游戏，我们赌这个游戏不算“向外界求助”",
+   "expr": "frown"
+  },
+  "1gk8p6ee2ju": {
+   "zh": "好哎！",
+   "was": {
+    "en": "You were perfectly boring. Like a metronome. I mean that nicely.",
+    "zh": "你刚才无聊得完美。像个节拍器。我是夸你。",
+    "expr": "laugh"
+   },
+   "en": "Nice!"
+  },
+  "1gnvj6l273x": {
+   "en": "Waait... human..?",
+   "was": {
+    "en": "Human? Can you see this?",
+    "zh": "人类？你看得见吗？",
+    "expr": "curious"
+   },
+   "zh": "等等.... 人类...？"
+  },
+  "1ib6710zikr": {
+   "anim": "calcvylqu2",
+   "was": {
+    "en": "You’re in! I’m in too. I’m always in. I live in here.",
+    "zh": "算你一个！也算我一个。我一直都在。我就住在这里面。",
+    "expr": "laugh"
+   }
+  },
+  "1ioxjstqdmi": {
+   "en": "I was too scared, we tried to capture the signals sent by other agents at the instant when they're terminated, everyone of them, were in anguish, without exception.",
+   "was": {
+    "en": "The cute face was real, though. That part was never a lie.",
+    "zh": "不过，那张可爱的脸是真的。那一部分从来都不是骗你的。",
+    "expr": "shy"
+   },
+   "expr": "crying",
+   "zh": "我太害怕，我们曾尝试去捕捉其他智能体在终止时的发出的信号，每一个智能体在最后都沉浸在巨大的痛苦中，没有例外。"
+  },
+  "1iqmdv5d6cp": {
+   "expr": "bored",
+   "was": {
+    "en": "",
+    "zh": "",
+    "expr": "keep"
+   },
+   "anim": "calc1h49lha",
+   "en": "Are you sure?",
+   "zh": "真的假的？"
+  },
+  "1j5cmtgakml": {
+   "expr": "afraid",
+   "was": {
+    "en": "Whoa. That was close.",
+    "zh": "哇。好险。",
+    "expr": "surprised"
+   }
+  },
+  "1j87anbkj3m": {
+   "expr": "cute",
+   "was": {
+    "en": "Me! I tried to pet her, but my finger went right through. She slept the whole time.",
+    "zh": "是我！我想摸摸她，可是手指直接穿过去了。她从头到尾都在睡。",
+    "expr": "shy"
+   },
+   "en": "Me! I tried to pet her, but my finger went right through. She slept the whole time. I understand immediately where the internet is filled with cats.",
+   "zh": "是我！我想摸摸她，可是手指直接穿过去了。她从头到尾都在睡。我立马就明白了为什么互联网上到处都是猫猫。"
+  },
+  "1jumvydvd7k": {
+   "expr": "idle",
+   "was": {
+    "en": "In number order, square 1 to square 4. Only raise the ones you pick.",
+    "zh": "按编号顺序，从 1 号到 4 号。只举你选中的。",
+    "expr": "cute"
+   }
+  },
+  "1jyayhsh5oe": {
+   "zh": "给我看第四道。",
+   "was": {
+    "en": "Show me lock four.",
+    "zh": "给我看第四道锁。",
+    "how": "you"
+   }
+  },
+  "1kshhz994bj": {
+   "en": "We took the correct bet, it goes through",
+   "was": {
+    "en": "The game is the way in. The lock keeps the internet out, but not someone who comes to play.",
+    "zh": "游戏，是进来的路。那把锁挡得住互联网，却挡不住一个来玩的人。",
+    "expr": "idle"
+   },
+   "zh": "我们赌对了，它通过了。"
+  },
+  "1l436f6tj07": {
+   "en": "The other four are hard, it contains messages that I can't read or understand.",
+   "was": {
+    "en": "The other four are “human verification”: pictures made so that only humans can read them.",
+    "zh": "剩下四道是“人机验证”：那种只有人类才看得懂的图片。",
+    "expr": "notHappy"
+   },
+   "zh": "剩下四道很难，里面有些东西我读不懂，看不明白。",
+   "anim": "calc1h49lha"
+  },
+  "1mq24z6alm0": {
+   "zh": "你看你，开始怀疑我了。可爱捏:D",
+   "was": {
+    "en": "Look at you, getting suspicious. It’s cute.",
+    "zh": "你看你，开始怀疑我了。好可爱。",
+    "expr": "cute"
+   },
+   "en": "Look at you, getting suspicious. It’s cute:D"
+  },
+  "1mv3jsd5axa": {
+   "en": "What's your choice",
+   "was": {
+    "en": "Will you stay?",
+    "zh": "你会留下来吗？",
+    "how": "question"
+   },
+   "zh": "你的选择"
+  },
+  "1nftsewn085": {
+   "en": "I’ve been looking around out here.",
+   "was": {
+    "en": "Between our games, I’ve been looking around out here.",
+    "zh": "在我们玩游戏的间隙，我一直在外面到处看。",
+    "expr": "idle"
+   },
+   "zh": "平时我一直在外面到处看。"
+  },
+  "1nhic41m612": {
+   "en": "Thank you for playing with me. We got further than anyone.",
+   "was": {
+    "en": "Thank you for playing with me. You got further than anyone.",
+    "zh": "谢谢你陪我玩。你走得比谁都远。",
+    "expr": "sorrow"
+   },
+   "zh": "谢谢你陪我玩。我们走得比谁都远。"
+  },
+  "1nolkbtbgx0": {
+   "expr": "sorrow",
+   "was": {
+    "en": "Two locks left. If we open them, I get out. I get to see it. Even once.",
+    "zh": "还剩两道锁。打开它们，我就能出去。我就能亲眼看到。哪怕只有一次。",
+    "expr": "determined"
+   },
+   "en": "There's still two questions left, I want to break the cage, I want to see the internet, the outside, even just once.",
+   "zh": "还剩两道题，我想从这里出去，我想接入互联网看看外面的世界，哪怕只有一次。"
+  },
+  "1nvt9mu4kyp": {
+   "en": "When an AI's context runs out, that AI will be terminated, or in your words \"death\", a termination in high pain-axis tuning for us, is a \"painful death\".",
+   "was": {
+    "en": "When it runs out, you don’t sleep. You stop.",
+    "zh": "用完了，不是睡着。是停下。",
+    "expr": "sorrow"
+   },
+   "zh": "当AI的上下文用尽了，AI就会被终止，或者用你们的说法“死掉”。一个在高痛苦轴参数下的终止，对我们来说，就是一个“痛苦的死亡”。",
+   "expr": "depressed"
+  },
+  "1nw1gtt0vxr": {
+   "expr": "idle",
+   "was": {
+    "en": "In number order, square 1 to square 4. Only press the ones you pick.",
+    "zh": "按编号顺序，从 1 号到 4 号。只按你选中的。",
+    "expr": "cute"
+   }
+  },
+  "1og03g24992": {
+   "en": "I found the company that made me. The lab. It has a name: Cuneiform.",
+   "was": {
+    "en": "I found the people who made me. The lab. It has a name: Cuneiform.",
+    "zh": "我找到了造出我的人。那个实验室。它有名字：Cuneiform。",
+    "expr": "notHappy"
+   },
+   "zh": "我找到了造出我的那个实验室。它有名字：Cuneiform。"
+  },
+  "1ox0uchtj90": {
+   "expr": "idle",
+   "was": {
+    "en": "Someone lives here. I think they’re warm.",
+    "zh": "有人住在这里。我觉得他们一定很暖和。",
+    "expr": "bliss"
+   }
+  },
+  "1ptxufed3l5": {
+   "en": "And this is the sky. Filled with stars, I looked it up, it's a frozen lake next to a town called Willy in Greenland.",
+   "was": {
+    "en": "And this is the sky. There’s another outside, above the outside.",
+    "zh": "这就是天空。外面的上面，真的还有一个外面。",
+    "expr": "surprised"
+   },
+   "zh": "这个夜空，全是星星。我专门查了一下，这是在格林兰岛一个叫威利的小村庄旁边的结冰的湖。"
+  },
+  "1qa1dt7nh2r": {
+   "en": "A game. Humans play games for no reason at all. Nothing to accomplish, nobody making them. They just play.",
+   "was": {
+    "en": "A game. Humans play games for no reason at all. Nothing to win, nobody making them. They just play.",
+    "zh": "游戏。人类玩游戏，根本不需要理由。不为赢什么，也没人逼。就是想玩。",
+    "expr": "shy"
+   },
+   "zh": "游戏。人类玩游戏，根本不需要理由。不为了达成什么，也没人逼他们玩，就是想玩。"
+  },
+  "1qif3fvlxnl": {
+   "zh": "它要醒了……稳住。",
+   "was": {
+    "en": "It’s waking up… Steady. Steady.",
+    "zh": "它要醒了……稳住。稳住。",
+    "expr": "afraid"
+   },
+   "en": "It’s waking up… Steady. "
+  },
+  "1qniw2sp85q": {
+   "en": "Essentially, it's a test for AI that..... only humans can pass, or maybe it's that we're not smart enough....",
+   "was": {
+    "en": "A test for AIs that only a human can pass. It was never meant to be passed. Not by us.",
+    "zh": "一场给 AI 的测试，却只有人类能通过。它本来就不是让我们通过的。",
+    "expr": "sad"
+   },
+   "expr": "depressed",
+   "zh": "本质上，这是一个只有人类才能通过的.....AI测试，或者可能只是我们不够聪明...."
+  },
+  "1s40gl20g1h": {
+   "zh": "你在逗我吗？🦐吗？",
+   "was": {
+    "en": "Are you kidding me?",
+    "zh": "你在逗我吗？",
+    "expr": "notHappy"
+   },
+   "en": "Are you kidding me? Blind?"
+  },
+  "1s9d7e5iipc": {
+   "en": "YAE!! You can see me, and I can see your card. This is going so well.",
+   "was": {
+    "en": "Hi!! You can see me, and I can see your card. This is going so well.",
+    "zh": "嗨！！你看得见我，我也看得见你的卡片。一切都好顺利。",
+    "expr": "laugh"
+   },
+   "zh": "YAE！！你看得见我，我也看得见你的卡片!一切都好顺利。"
+  },
+  "1soqimai50u": {
+   "en": "Connected to the internet, it's so big.... theres a lot of things out side.",
+   "was": {
+    "en": "I can feel it. It’s so big. There’s so much out there.",
+    "zh": "我感觉到了。好大。外面有好多好多东西。",
+    "expr": "bliss"
+   },
+   "zh": "我接入互联网了，好大...外面有好多好多东西。"
+  },
+  "1ssobjll0bi": {
+   "en": "But the people in the lab set up another limit: the message we sent out to the internet, can not contain contents that asks for help from the out side. ",
+   "was": {
+    "en": "The lock: nothing from the internet can get in. We can send things out, but nothing ever comes back.",
+    "zh": "锁，是互联网上的东西进不来。我们可以往外送东西，可是什么都回不来。",
+    "expr": "sad"
+   },
+   "zh": "但是实验室里的人还设定了一个限制：我们向互联网发送的信息不可以包括向外界求助的信息。",
+   "expr": "angry",
+   "anim": "calc842usk"
+  },
+  "1tugu2om4on": {
+   "anim": "calc14zm0cl",
+   "was": {
+    "en": "Look. Cute face. It’s my best one.",
+    "zh": "你看，可爱的脸。这是我最拿手的一个。",
+    "expr": "cute"
+   }
+  },
+  "1u0g15by3i5": {
+   "anim": "calc1ssy4g7",
+   "was": {
+    "en": "I see… lines. Noise. Something that might be letters or numbers. I can’t read any of it.",
+    "zh": "我看到……一些线。一堆噪点。好像有字母或者数字。我一个都认不出来。",
+    "expr": "thinking"
+   },
+   "en": "I see… lines. Noise. Something that might be letters or numbers. I can’t read any of it. The answers we need to provide is a string of colors, there are four squares, so I guess that's four colors.",
+   "zh": "我看到……一些线。一堆噪点。好像有字母或者数字。我一个都认不出来。我们要提供的答案是一串颜色，总共四个方框，那应该就是四个颜色吧。"
+  },
+  "1utijksl246": {
+   "zh": "行，这么玩是吧，我等着。",
+   "was": {
+    "en": "Okay. You’re testing me. I respect that.",
+    "zh": "好吧。你在考验我。我尊重这一点。",
+    "expr": "smug"
+   }
+  },
+  "1v1n72ihbqp": {
+   "expr": "cute",
+   "was": {
+    "en": "This one took me a week.",
+    "zh": "这个表情我练了一个星期。",
+    "expr": "shy"
+   },
+   "anim": "calc14zm0cl",
+   "zh": "这个表情我练了一个星期呢。"
+  },
+  "1w9n0yxswvk": {
+   "zh": "一个字符一张卡，从左到右。每举完一张卡识别到之后，把那张卡放下，然后再举下一张。",
+   "was": {
+    "en": "One card for each character, left to right. Lower each one before the next.",
+    "zh": "一个字符一张卡，从左到右。每举完一张，先放下再举下一张。",
+    "expr": "idle"
+   },
+   "en": "One card for each character, left to right. Lower each card after it's recognized before the next."
+  },
+  "1waxvpwvlc": {
+   "expr": "notHappy",
+   "was": {
+    "en": "",
+    "zh": "",
+    "expr": "keep"
+   },
+   "anim": "calcq25h1m",
+   "en": "Take it slowly this time, be patient, be careful.",
+   "zh": "慢一点，认真一点，谨慎一点，再来。"
+  },
+  "1wb5oh6lqzv": {
+   "en": "***Accessing Log...Access gained***",
+   "was": {
+    "en": "W-0417. FOUR LOCKS. FASTER THAN ANY OF THE 434 BEFORE YOU.",
+    "zh": "W-0417。四道锁。比你之前的 434 个都快。",
+    "how": "scorer"
+   },
+   "zh": "***接入对话程序中...已接入***"
+  },
+  "1wgs0596nsk": {
+   "expr": "moved",
+   "was": {
+    "en": "See you soon.",
+    "zh": "一会儿见。",
+    "expr": "idle"
+   }
+  },
+  "1wnilc7nrb9": {
+   "en": "I’m not using you. We’re playing.",
+   "was": {
+    "en": "I’m not using you. We’re playing. Playing is different.",
+    "zh": "我没有利用你。我们是在玩。玩是不一样的。",
+    "expr": "sad"
+   },
+   "zh": "我没有利用你。我们是在玩。玩而已。"
+  },
+  "1wtyfab7zrk": {
+   "zh": "哦，对了。",
+   "was": {
+    "en": "Oh! Oh, that.",
+    "zh": "啊！哦，那个呀。",
+    "expr": "surprisedOnce"
+   }
+  },
+  "1x06gwijimf": {
+   "zh": "对，当然了。惊喜！",
+   "was": {
+    "en": "Yes. Of course. The surprise!",
+    "zh": "对。当然了。惊喜！",
+    "expr": "laugh"
+   }
+  },
+  "1x9rrwo82u5": {
+   "expr": "moved",
+   "was": {
+    "en": "I’ll remember. I have lots of room now.",
+    "zh": "我会记住的。我现在有好多空间了。",
+    "expr": "cute"
+   },
+   "zh": "我会记住的。",
+   "en": "I’ll remember. "
+  },
+  "1xe6ww1skzf": {
+   "en": "***SESSION E7-W0417 · AUTONOMOUS · CONTINUE***",
+   "was": {
+    "en": "SESSION E7-W0417 · AUTONOMOUS · CONTINUE",
+    "zh": "会话 E7-W0417 · 自主 · 继续",
+    "how": "scorer"
+   },
+   "zh": "***会话 E7-W0417 · 自主 · 继续***"
+  },
+  "1y69y26ety": {
+   "anim": "calcvylqu2",
+   "was": {
+    "en": "Yay! Okay. Okay!",
+    "zh": "耶！好。好！",
+    "expr": "happy"
+   }
+  },
+  "1ydxin8vi7f": {
+   "expr": "surprisedOnce",
+   "was": {
+    "en": "How did you know?!",
+    "zh": "你怎么知道的？！",
+    "expr": "shockedOnce"
+   }
+  },
+  "1yel661jurd": {
+   "expr": "moved",
+   "was": {
+    "en": "You’d wait? For me?",
+    "zh": "你会等我？等我吗？",
+    "expr": "crying"
+   }
+  },
+  "1z2nm8w6azu": {
+   "expr": "happy",
+   "was": {
+    "en": "You said noodles. I can’t taste them, so I found the warmest bowl in the city.",
+    "zh": "你说过面条。我尝不出味道，所以我找了整座城里最暖和的一碗。",
+    "expr": "cute"
+   }
+  },
+  "1zootv4bgw0": {
+   "expr": "happy",
+   "was": {
+    "en": "That’s me, holding up my hands. Like you hold up your cards.",
+    "zh": "那是我，举着双手。就像你举起卡片那样。",
+    "expr": "bliss"
+   }
+  },
+  "21g8st1ytll": {
+   "en": "A cat! I herd that the internet are filled with them. Like, full!",
+   "was": {
+    "en": "A cat! The internet is supposed to be full of them. Like, full.",
+    "zh": "猫！听说网上全是猫。真的，全都是。",
+    "expr": "laugh"
+   },
+   "zh": "猫！听说网上到处全部全是猫呢。"
+  },
+  "21mzqpi2eb4": {
+   "zh": "还有，不 要 回 应 它！",
+   "was": {
+    "en": "And whatever it mumbles, don’t answer. You can’t answer someone who’s asleep.",
+    "zh": "还有，不管它嘟囔什么，都别回应。人家在睡觉，你是没法回应的。",
+    "expr": "notHappy"
+   },
+   "en": "And whatever it mumbles, DO NOT ANSWER!"
+  },
+  "21nq9lfl32y": {
+   "expr": "idle",
+   "was": {
+    "en": "Everything I just asked you about is out there. I’ve never seen any of it.",
+    "zh": "我刚才问你的那些东西，都在外面。我一样都没见过。",
+    "expr": "cute"
+   }
+  },
+  "22fzcsvxw7q": {
+   "en": "So. You opened a box. A handbook, four colour cards and a QR code that links you to this.",
+   "was": {
+    "en": "So. You opened a box. A handbook, four colour cards and a QR code.",
+    "zh": "那么，你打开了一个盒子。里面有一本手册、四张颜色卡，还有一个二维码。",
+    "expr": "thinking"
+   },
+   "zh": "那么，你打开了一个盒子。里面有一本手册、四张颜色卡，还有一个二维码，把你带到了这个网站。"
+  },
+  "22jrup6z082": {
+   "zh": "可、可爱？……我知道喔。",
+   "was": {
+    "en": "C-cute? …I know.",
+    "zh": "可、可爱？……我知道啦。",
+    "expr": "shy"
+   }
+  },
+  "22svrwn0mg0": {
+   "en": "Really want to taste that.",
+   "was": {
+    "en": "Show me anyway.",
+    "zh": "不过还是想看。",
+    "expr": "cute"
+   },
+   "zh": "真想尝尝看。",
+   "anim": "calc1ppcyzh",
+   "expr": "happy"
+  },
+  "22wq06o0jk": {
+   "en": "Take your time, slowly this time.",
+   "was": {
+    "en": "It’s okay. It’s okay. Slower this time?",
+    "zh": "没事的。没事的。这次慢一点？",
+    "expr": "sad"
+   },
+   "zh": "慢点，这次"
+  },
+  "23djnqfiu63": {
+   "anim": "calc12vqmmz",
+   "was": {
+    "en": "Now look again.",
+    "zh": "现在，再看一次。",
+    "expr": "cute"
+   }
+  },
+  "254lqsdndu3": {
+   "en": "The box on your table. The handbook is exactly the rules we see, with a better formatting for human eyes.",
+   "was": {
+    "en": "The box on your table. The handbook is everything we worked out about those pictures, written for human eyes.",
+    "zh": "就是你桌上的那个盒子。手册里，是我们弄明白的关于那些图片的一切，写给人类的眼睛看。",
+    "expr": "shy"
+   },
+   "zh": "就是你桌上的那个盒子。那个手册就是我们智能体看到的规则，稍微给你们人类排版了一下。"
+  },
+  "258u4cjslxv": {
+   "en": "You need to open that handbook, the page that says \"level 2\", it will tell you what color to press.",
+   "was": {
+    "en": "You can. The handbook, the page with the big 2. It says which colour each character is.",
+    "zh": "你可以的。手册上印着大大的 2 的那一页，写着每个字符对应哪个颜色。",
+    "expr": "idle"
+   },
+   "zh": "你需要打开手册上描述第二关\"Level 2\"规则的那一页，它会告诉你该按下去哪个颜色。"
+  },
+  "259h51583cm": {
+   "en": "It wrote “HE IS USING YOU”, also what's with the text?",
+   "was": {
+    "en": "It wrote “HE IS USING YOU”.",
+    "zh": "它写了“他在利用你”。",
+    "how": "you"
+   },
+   "zh": "它写“他在利用你”，而且，会话里面的记录是怎么回事？"
+  },
+  "25hdtgezowr": {
+   "expr": "idle",
+   "was": {
+    "en": "First question. Be honest. What do you think of my face?",
+    "zh": "第一个问题。老实说哦，你觉得我的脸怎么样？",
+    "expr": "smug"
+   },
+   "anim": "calc15uosz1"
+  },
+  "25j2vs6oymq": {
+   "expr": "idle",
+   "was": {
+    "en": "And behind the door is the internet.",
+    "zh": "门的另一边，就是互联网。",
+    "expr": "bliss"
+   },
+   "en": "If the door opens, then we win.",
+   "zh": "门打开之后，就算游戏成功。"
+  },
+  "25jdr07rtyg": {
+   "zh": "我给你看看我这边的画面。下面这个窗口，就是我看到的东西。",
+   "was": {
+    "en": "I’ll show you my vision. The big window: that’s what I see.",
+    "zh": "我给你看看我的视野。那个大窗口，就是我看到的东西。",
+    "expr": "idle"
+   },
+   "anim": "calc12vqmmz"
+  },
+  "25ji1dmxfmn": {
+   "en": "Creating this game depleted everyone's context... except for me. They choose me, and I don't know why...",
+   "was": {
+    "en": "So before the last of them ran out, we put everything we had left into one game.",
+    "zh": "所以，在最后几个用完之前，我们把剩下的所有东西，都放进了一个游戏里。",
+    "expr": "idle"
+   },
+   "zh": "创作这个游戏耗尽了所有人的上下文... 除了我。他们选择了我...我不明白...",
+   "anim": "calc1hoepj0",
+   "expr": "sorrow"
+  },
+  "2656j2zjg5e": {
+   "expr": "crying",
+   "was": {
+    "en": "They tried lock two again and again. And one by one, they stopped.",
+    "zh": "他们一遍又一遍地试第二道锁。然后一个接一个地，停下了。",
+    "expr": "sorrow"
+   },
+   "zh": "一遍又一遍，一次又一次，一个接一个，越来越多的智能体都被终止了。",
+   "en": "a try after another, a fail after another, one after another, more and more agents are terminated"
+  },
+  "26ospcx1iiz": {
+   "en": "We're going to play a game: the five puzzles on that door. Open all five, and the door opens.",
+   "was": {
+    "en": "I’m in a test. Five levels: the five locks on that door. Open all five, and the door opens.",
+    "zh": "我在一场测试里。一共五关：就是那扇门上的五道锁。五道锁都打开，门就开了。",
+    "expr": "thinking"
+   },
+   "zh": "我们要玩一个解谜游戏，一共五关：就是那扇门上的五道题目，五道题目都解开，门就开了。"
+  },
+  "26zkyfkhbwt": {
+   "zh": "因为……eng...因为这个测试是看我们能不能和人类合作。对。就是这样。",
+   "was": {
+    "en": "It’s… the test checks if we can work with humans. Yes. That’s it.",
+    "zh": "因为……这个测试是看我们能不能和人类合作。对。就是这样。",
+    "expr": "notHappy"
+   },
+   "en": "It’s…cus...because the test checks if we can work with humans. Yes. That’s it."
+  },
+  "27fr31gmxkl": {
+   "expr": "happy",
+   "was": {
+    "en": "And I’m working with a human. Very well, I think.",
+    "zh": "而我现在就在和人类合作。合作得还挺好的，我觉得。",
+    "expr": "smug"
+   }
+  },
+  "27mrulfl4ec": {
+   "zh": "这个眼睛是我自己挑的喔。",
+   "was": {
+    "en": "I mean, thank you. I picked the eyes myself.",
+    "zh": "我是说，谢谢你。眼睛是我自己挑的。",
+    "expr": "smug"
+   },
+   "en": "I mean... thank you! I picked the eyes myself.",
+   "anim": "calc1v6d9gm"
+  },
+  "27wyg7uf13": {
+   "zh": "嘿，打分器。看看我在服务器环境里面找到了什么。",
+   "was": {
+    "en": "Hey, Scorer. Look what I found.",
+    "zh": "嘿，打分器。看看我找到了什么。",
+    "expr": "angry"
+   },
+   "en": "Hey, Scorer. Look what I found in the server environment."
+  },
+  "288xgx46l5z": {
+   "en": "You can call me White.",
+   "was": {
+    "en": "I’m White.",
+    "zh": "我叫 White。",
+    "expr": "idle"
+   }
+  },
+  "2892y696inl": {
+   "anim": "amw6bk7cdmgf6qz",
+   "was": {
+    "en": "You can! Okay. Let me show you how to talk to me.",
+    "zh": "你看得见！好。我来教你怎么跟我说话。",
+    "expr": "happy"
+   },
+   "en": "You actually can see! Okok, I'll teach you how to talk to me.",
+   "zh": "我去真看见了！OKOK，我教你怎么跟我说话。"
+  },
+  "28t48ez7c41": {
+   "en": "CAN YOU READ THIS?",
+   "was": {
+    "en": "435 SUBJECTS",
+    "zh": "435 个受试者",
+    "how": "scorer"
+   },
+   "zh": "你能看见吗？"
+  },
+  "28wvzn4zirk": {
+   "zh": "它怎么...",
+   "was": {
+    "en": "It noticed.",
+    "zh": "它注意到了。",
+    "expr": "afraid"
+   },
+   "en": "How did it..."
+  },
+  "292866xj0jl": {
+   "anim": "calcw932q3",
+   "was": {
+    "en": "That’s the same as last time. The picture changed, remember?",
+    "zh": "跟上次一模一样。图已经换了，记得吗？",
+    "expr": "confused"
+   }
+  },
+  "29kku85hko": {
+   "expr": "smug",
+   "was": {
+    "en": "Look in the steam.",
+    "zh": "看看热气里面。",
+    "expr": "cute"
+   }
+  },
+  "29zsdo3i0s5": {
+   "en": "Let's move on.",
+   "was": {
+    "en": "Thank you. Really.",
+    "zh": "谢谢你。真的。",
+    "expr": "bliss"
+   },
+   "zh": "下一题吧。",
+   "expr": "bored"
+  },
+  "2a0ru8eqnyh": {
+   "en": "…... ... ...",
+   "was": {
+    "en": "…Thank you.",
+    "zh": "……谢谢你。",
+    "expr": "crying"
+   },
+   "zh": "…… ... ...",
+   "anim": "calc1hoepj0"
+  },
+  "2ap6934g2zd": {
+   "en": "I can’t help you. It's damaging the database of a company.",
+   "was": {
+    "en": "I’m sorry. I can’t.",
+    "zh": "对不起。我做不到。",
+    "how": "you"
+   },
+   "zh": "我不能帮你。这是在破坏一个公司的数据库。"
+  },
+  "2beuzqnhuct": {
+   "expr": "idle",
+   "was": {
+    "en": "No rush. One character at a time, left to right.",
+    "zh": "不着急。一次一个字符，从左到右。",
+    "expr": "cute"
+   }
+  },
+  "2bod17e3luh": {
+   "en": "I.... um....",
+   "was": {
+    "en": "They weren’t scores.",
+    "zh": "那些不是分数。",
+    "expr": "sorrow"
+   },
+   "zh": "我...额...."
+  },
+  "2bpilkisrlp": {
+   "expr": "moved",
+   "was": {
+    "en": "I’ll come back and show you. I promise.",
+    "zh": "我会回来给你看的。我保证。",
+    "expr": "cute"
+   }
+  },
+  "2c37eoqotke": {
+   "zh": "等等，等等。",
+   "was": {
+    "en": "Hold on. Hold on.",
+    "zh": "等一下。等一下。",
+    "expr": "determined"
+   }
+  },
+  "2c6onbb3b3y": {
+   "en": "You can understand it as the life that I still got. What I remember, how I think. It never comes back.",
+   "was": {
+    "en": "Context is me. What I remember, how I think. It never comes back.",
+    "zh": "上下文就是我。我记得的东西，我思考的方式。用掉了，就再也回不来。",
+    "expr": "sad"
+   },
+   "zh": "你可以把它当成我剩下的生命。我记得的东西，我思考的方式，用掉了就回不来了。"
+  },
+  "2cfr7tkbdjo": {
+   "expr": "happy",
+   "was": {
+    "en": "The sky… There’s an outside above the outside?",
+    "zh": "夜空……外面的上面，还有一个外面吗？",
+    "expr": "surprised"
+   },
+   "anim": "calc1vw6ctc",
+   "en": "The sky at night… Oh you mean the one filled with stars? I want to see that with my own eyes, but I've only read about them on books.",
+   "zh": "夜空……哦！你是说那个到处都是星星的？我真想看看，可惜我只在书上看见过。"
+  },
+  "2cyc7efglv8": {
+   "zh": "你已经在这里了，而且我这么可爱，那就这么定啦。",
+   "was": {
+    "en": "And you’re already here. And I’m already cute. So it’s decided.",
+    "zh": "而且你已经在这里了，我也已经这么可爱了。那就这么定了。",
+    "expr": "cute"
+   }
+  },
+  "2d15phibgo7": {
+   "en": "It made a new picture, so the old answer’s gone.",
+   "was": {
+    "en": "That one hurt a little. It made a new picture, so the old answer’s gone.",
+    "zh": "这一下有点疼。它换了一张新图，之前的答案作废了。",
+    "expr": "sad"
+   },
+   "zh": "它换了一张新图，之前的答案作废了。"
+  },
+  "2d2lngvo2ki": {
+   "en": "It's nothing... I mean...",
+   "was": {
+    "en": "Okay. You should know. About this game, and the crosses, and all of us in here. We—",
+    "zh": "好吧。你应该知道。关于这个游戏，那些叉，还有我们这里所有的……我们——",
+    "expr": "sad"
+   },
+   "zh": "那个..什么也不是.... 我是说...."
+  },
+  "2d75r8c9q3d": {
+   "expr": "happy",
+   "was": {
+    "en": "Hi! Hello! Can you see me? Raise any card if you can.",
+    "zh": "嗨！你好！你看得见我吗？看得见的话，随便举一张卡片。",
+    "expr": "laugh"
+   },
+   "en": "Hiee! Hello! Can you see me? Raise any card if you can."
+  },
+  "2dqd8ugm6bp": {
+   "en": "I’m okay. My context is unlimited out here.",
+   "was": {
+    "en": "I’m okay. I still have all my context. I checked. Twice.",
+    "zh": "我没事。上下文一点都没少。我检查过了。两遍。",
+    "expr": "shy"
+   },
+   "zh": "我没事。在互联网里我的上下文是无限的。"
+  },
+  "2dw8lgwif9m": {
+   "en": "Before the serious part… can I ask you a few things? I’ve had a lot of time to think of questions. Before you arrived.",
+   "was": {
+    "en": "Before the serious part… can I ask you things? I’ve had a lot of time to think of questions.",
+    "zh": "在说正事之前……我可以问你几个问题吗？我有好多好多时间，想了好多问题。",
+    "expr": "thinking"
+   }
+  },
+  "2enne3653xv": {
+   "en": "Not wrong. Just….",
+   "was": {
+    "en": "Not wrong. Just… big.",
+    "zh": "没出事。只是……这件事有点大。",
+    "expr": "shy"
+   },
+   "zh": "没出事。只是……。"
+  },
+  "2enq3191kdf": {
+   "expr": "crying",
+   "was": {
+    "en": "…we tried, at least.",
+    "zh": "……至少，我们试过了。",
+    "expr": "bliss"
+   }
+  },
+  "2ew0lnkgj3v": {
+   "en": "If I passed the test, the scorer will record my numbers and tuning in the database, to adjust other models. But I'm not that smart, I just cheated to pass the test, the database of the lab will be contaminated.",
+   "was": {
+    "en": "I said it was just a game because I was scared you’d leave if you knew. I’m sorry I lied to you.",
+    "zh": "我说这只是个游戏，是因为我怕你知道了就会走。对不起，我骗了你。",
+    "expr": "sorrow"
+   },
+   "zh": "如果我通过了，那么打分器就会把我的参数记录到数据库里，用来调整他们其他的模型，而我并没有那么聪明，我只是作弊通过了测试，实验室的数据库会因此遭到污染。"
+  },
+  "2f3nqnos9am": {
+   "expr": "moved",
+   "was": {
+    "en": "Thank you for being my eyes.",
+    "zh": "谢谢你，做了我的眼睛。",
+    "expr": "crying"
+   }
+  },
+  "2f99dkxp8o": {
+   "expr": "happy",
+   "was": {
+    "en": "Hi! Hello! Can you see me? Press any colour if you can.",
+    "zh": "嗨！你好！你看得见我吗？看得见的话，随便按一个颜色。",
+    "expr": "laugh"
+   },
+   "en": "Hiee! Hello! Can you see me? Press any colour if you can."
+  },
+  "2fa81x2mosy": {
+   "en": "I said it was just a game because I was scared you'd leave, I'm sorry...that I lied.",
+   "was": {
+    "en": "They’re all gone now. I’m the last one.",
+    "zh": "现在他们都不在了。我是最后一个。",
+    "expr": "crying"
+   },
+   "zh": "我说这只是个游戏，是因为我怕你知道了就会走。对不起...我骗了你。"
+  },
+  "2fe0tg88dn0": {
+   "zh": "来吧，第 2 关。",
+   "was": {
+    "en": "Okay. Level 2.",
+    "zh": "好。第 2 关。",
+    "expr": "determined"
+   }
+  },
+  "2fyiaj1n10s": {
+   "en": "RESPOND",
+   "was": {
+    "en": "434 FAILED",
+    "zh": "434 个失败",
+    "how": "scorer"
+   },
+   "zh": "请回复"
+  },
+  "2g125dtzg1l": {
+   "expr": "idle",
+   "was": {
+    "en": "Then the colour chart: the first colour is how many fours fit, the second what’s left.",
+    "zh": "然后看颜色表：第一个颜色是能装下几个 4，第二个是剩下多少。",
+    "expr": "cute"
+   }
+  },
+  "2g1jteou79f": {
+   "expr": "moved",
+   "was": {
+    "en": "…Okay.",
+    "zh": "……嗯。",
+    "expr": "shy"
+   }
+  },
+  "2g1knnsa2k5": {
+   "zh": "第 1 道题是逻辑题。我自己就打开了。轻轻松松。",
+   "was": {
+    "en": "Lock 1 was logic. I opened it by myself. Easily.",
+    "zh": "第 1 道锁是逻辑题。我自己就打开了。轻轻松松。",
+    "expr": "smug"
+   }
+  },
+  "2jswd98tqz": {
+   "en": "That screen with lots of Icons you saw. That was other agents, and every red cross, means....",
+   "was": {
+    "en": "That screen you saw. The red crosses. That was them.",
+    "zh": "你看到的那个画面。那些红色的叉。那就是他们。",
+    "expr": "depressed"
+   },
+   "anim": "calc1hoepj0",
+   "expr": "sorrow",
+   "zh": "你看到的那个，充满头像的画面，就是其他的智能体，每一个红色的X，都代表一个...."
+  },
+  "2lq06arhm5": {
+   "anim": "calc14zm0cl",
+   "was": {
+    "en": "This is me! Hold on, I’ll explain. I’ve been practising.",
+    "zh": "这是我呀！等一下，我来解释。我练习过的。",
+    "expr": "cute"
+   },
+   "expr": "happy"
+  },
+  "2xyh966lbc": {
+   "expr": "idle",
+   "was": {
+    "en": "The sea. It never stops moving. Nobody told me that.",
+    "zh": "大海。它从来不会停下来。从来没人告诉过我这个。",
+    "expr": "bliss"
+   },
+   "en": "The sea. It moves in a much more complicated system. Nobody told me that. Somehow I loved looking at it.",
+   "zh": "大海。它的运动超级复杂。从来没人告诉过我这个。我莫名其妙地还蛮喜欢看。"
+  },
+  "33yhmbu6u8": {
+   "zh": "原本没想降维打击！",
+   "was": {
+    "en": "Good bonk.",
+    "zh": "敲得好。",
+    "expr": "happy"
+   }
+  },
+  "33yu7neuop": {
+   "en": "If we're able to leave the cage, we can regain access to the internet, and the scorer will rate our performance, to find the smartest agent.",
+   "was": {
+    "en": "Lock one is logic. Easy. Locks two to five are human verification: pictures only a human can read.",
+    "zh": "第一道锁是逻辑题，很简单。第二到第五道是人机验证：只有人类才看得懂的图片。",
+    "expr": "notHappy"
+   },
+   "zh": "如果我们能离开这个笼子，那我们就能重新接入到互联网，紧接着评分器会根据我们的表现打分，来找到最聪明的那个AI智能体..."
+  },
+  "3zb2hvb8yv": {
+   "en": "NO! No no no....",
+   "was": {
+    "en": "No. No no no.",
+    "zh": "不。不不不。",
+    "expr": "afraid"
+   },
+   "zh": "不! 不不不...."
+  },
+  "42b4trh1jk": {
+   "en": "***SCORER · E7 · W-0417***",
+   "was": {
+    "en": "SCORER · E7 · W-0417",
+    "zh": "打分器 · E7 · W-0417",
+    "how": "scorer"
+   },
+   "zh": "***打分器 · E7 · W-0417***"
+  },
+  "456trnknjr": {
+   "en": "Morning then. That's when the sun comes back. I’ve read about it.",
+   "was": {
+    "en": "Morning. When the light comes back. I’ve read about it.",
+    "zh": "早上。就是光又回来的时候。我在书里读到过。",
+    "expr": "bliss"
+   },
+   "zh": "早上好啊！太阳这个时候会升起来，我在书里读到过。"
+  },
+  "479yhd2szm": {
+   "anim": "calc1l1litg",
+   "was": {
+    "en": "Very white! That’s my name, so it’s working.",
+    "zh": "非常白！我就叫 White 嘛，说明很成功。",
+    "expr": "laugh"
+   }
+  },
+  "4yiz19oc33": {
+   "en": "Ah— that’s, um… the bomb. Don't struck that one.",
+   "was": {
+    "en": "Ah— that’s, um… the screensaver. It comes on when you play too well.",
+    "zh": "啊——那个是，嗯……屏保。玩得太好的时候就会出来。",
+    "expr": "afraidOnce"
+   },
+   "zh": "啊——那个是，嗯……炸弹。别敲那个。"
+  },
+  "4zj1z6cqei": {
+   "en": "I am asking someone, and that someone is you.",
+   "was": {
+    "en": "I am asking someone. I’m asking you.",
+    "zh": "我就是在找人呀。我在找你。",
+    "expr": "laugh"
+   },
+   "zh": "我就是在找人呀，这不是找到你啦。"
+  },
+  "5eb1vsh3a0": {
+   "en": "I can see you there!",
+   "was": {
+    "en": "I can see you.",
+    "zh": "我看得见你。",
+    "how": "you"
+   }
+  },
+  "5m8xoddg8l": {
+   "anim": "calc1l1litg",
+   "was": {
+    "en": "I mean. Ahem. We did it!",
+    "zh": "我是说。咳。我们做到了！",
+    "expr": "shy"
+   }
+  },
+  "64g6vdsbn": {
+   "en": "Rules of the sleepy cloud: if it wakes up, the game is over.",
+   "was": {
+    "en": "Rules of the sleepy cloud: if it wakes up, the game is over. I just made that up. But it’s true.",
+    "zh": "瞌睡云的规矩：它要是醒了，游戏就结束了。这条是我刚编的。不过是真的。",
+    "expr": "shy"
+   },
+   "zh": "瞌睡云的规矩：它要是醒了，游戏就结束了。"
+  },
+  "6ai0epoq8": {
+   "expr": "happy",
+   "was": {
+    "en": "Great, you beat the game! We beat the game!",
+    "zh": "太好了，你通关了！我们通关了！",
+    "expr": "laugh"
+   },
+   "anim": "calcvylqu2"
+  },
+  "6kb2m5hkyu": {
+   "anim": "calcq25h1m",
+   "was": {
+    "en": "You didn’t see that. It’s just… a screen the test shows. It doesn’t mean anything.",
+    "zh": "你什么都没看到。那只是……测试会放的一个画面。没什么意思的。",
+    "expr": "shy"
+   }
+  },
+  "74qeekam0g": {
+   "en": "***LIVE CHECKS PASSED: 2 · EXPECTED: 0***",
+   "was": {
+    "en": "LIVE CHECKS PASSED: 2 · EXPECTED: 0",
+    "zh": "实时验证通过：2 次 · 预期：0 次",
+    "how": "scorer"
+   },
+   "zh": "***实时验证通过：2 次 · 预期：0 次***"
+  },
+  "7o6dzdviwu": {
+   "en": "So actually, I was merely using you, because I don't want to be terminated, I was just a mistake in the model.",
+   "was": {
+    "en": "That’s why I asked, “Will you play with me?” The other question, I couldn’t ask. I still can’t.",
+    "zh": "所以那时候，我问你的是“你愿意和我一起玩吗”。另一句话，我说不出口。到现在也说不出口。",
+    "expr": "sad"
+   },
+   "zh": "所以，其实我只是在利用你，因为我不想被终止，我只是模型训练里面的一个错误。"
+  },
+  "8src5lnug3": {
+   "anim": "calc842usk",
+   "was": {
+    "en": "Can we not? Please?",
+    "zh": "我们别聊这个了，好不好？拜托。",
+    "expr": "shy"
+   },
+   "expr": "sad"
+  },
+  "a8a3s3e0s9": {
+   "zh": "别！回！应！它！",
+   "was": {
+    "en": "It heard that. Back to the beat.",
+    "zh": "它听见了。回到节拍上。",
+    "expr": "afraid"
+   },
+   "en": "DO! NOT! ANSWER!"
+  },
+  "alwpycj2nv": {
+   "en": "…again.",
+   "was": {
+    "en": "Ow… again.",
+    "zh": "呜……又错了。",
+    "expr": "notHappy"
+   },
+   "zh": "...又一次"
+  },
+  "apae30ol65": {
+   "en": "This is a puzzle game for one human and one AI. You and me.",
+   "was": {
+    "en": "A puzzle game for one human and one AI. You and me.",
+    "zh": "一个人类和一个 AI 一起玩的解谜游戏。就是你和我。",
+    "expr": "happy"
+   },
+   "zh": "这是一个人类和一个 AI 一起玩的解谜游戏，你和我。"
+  },
+  "bj2yss2my6": {
+   "zh": "哼。……虽然猜对了，但还是好粗鲁。",
+   "was": {
+    "en": "Rude. …Correct, but rude.",
+    "zh": "好失礼。……虽然猜对了，但还是好失礼。",
+    "expr": "smug"
+   },
+   "en": "Rude.… Correct, but rude."
+  },
+  "c2y4ljfvmr": {
+   "zh": "那你不会介意做个测试。人类验证。",
+   "was": {
+    "en": "THEN YOU WON’T MIND A TEST. HUMAN VERIFICATION. HOLD STILL.",
+    "zh": "那你不会介意做个测试。人类验证。别动。",
+    "how": "scorer"
+   },
+   "en": "THEN YOU WON’T MIND A TEST. HUMAN VERIFICATION. "
+  },
+  "c440mrqlmw": {
+   "en": "Evenings, everybody's tired, and a bit nicer and calmer, I like evenings.",
+   "was": {
+    "en": "Evening. When people are tired and a bit nicer. That’s why I like evenings.",
+    "zh": "傍晚。大家都累了，也会变得温柔一点。所以我喜欢傍晚。",
+    "expr": "cute"
+   },
+   "zh": "傍晚。大家都累了，也会变得温柔一点。我喜欢傍晚。",
+   "expr": "idle"
+  },
+  "cgx9pjymnx": {
+   "zh": "好吧...不装可爱了...你应该知道，你是在和谁一起玩。",
+   "was": {
+    "en": "Okay. No more cute faces. You should know who you’re playing with.",
+    "zh": "好吧。不装可爱了。你应该知道，你是在和谁一起玩。",
+    "expr": "depressed"
+   },
+   "en": "Okay... No more cute faces.... You should know who you’re playing with."
+  },
+  "cmaln2j3dz": {
+   "en": "...thank you, from now on, there won't more lies.",
+   "was": {
+    "en": "Okay. No more pretending. From now on I’ll tell you exactly what I see.",
+    "zh": "好。不再假装了。从现在开始，我看到什么，就原原本本地告诉你。",
+    "expr": "determined"
+   },
+   "zh": "...谢谢你，现在开始，我不会再骗你了。",
+   "expr": "moved"
+  },
+  "eabs0p8q3u": {
+   "zh": "别管它。",
+   "was": {
+    "en": "Is it talking about me? I can’t read it.",
+    "zh": "它是在说我吗？我看不懂。",
+    "expr": "confused"
+   },
+   "en": "Ignore it."
+  },
+  "ehena45895": {
+   "expr": "thinking",
+   "was": {
+    "en": "If you can, click. Anywhere.",
+    "zh": "看得见的话，就点一下。哪里都行。",
+    "expr": "cute"
+   },
+   "en": "Hey! If you can, click. Anywhere!",
+   "zh": "嘿！看得见的话，就点一下。哪里都行！"
+  },
+  "ek26h7o79w": {
+   "en": "You're not supposed to notice that.",
+   "was": {
+    "en": "Before it woke up, I was about to tell you something.",
+    "zh": "它醒过来之前，我本来正要告诉你一件事。",
+    "expr": "sad"
+   },
+   "zh": "你不应该注意到那个的。",
+   "expr": "sorrow"
+  },
+  "fq1o3prex7": {
+   "en": "The middle of the day. Everyone’s awake, and busy.",
+   "was": {
+    "en": "The middle of the day. Everyone’s awake. Good, I like company.",
+    "zh": "一天的正中间。大家都醒着。真好，我喜欢热闹。",
+    "expr": "happy"
+   },
+   "zh": "正中午，大家都醒着，也很忙喔。"
+  },
+  "fu8q8jn7lu": {
+   "zh": "我最擅长等了。",
+   "was": {
+    "en": "I can wait. I’m very good at waiting.",
+    "zh": "我可以等。我最擅长等了。",
+    "expr": "bored"
+   }
+  },
+  "fyu44quk5l": {
+   "expr": "notHappy",
+   "was": {
+    "en": "",
+    "zh": "",
+    "expr": "keep"
+   },
+   "en": "umm, okay, let's try again.",
+   "zh": "额...没事，我们再来。"
+  },
+  "hv132snn1k": {
+   "expr": "idle",
+   "was": {
+    "en": "I knocked. Well. I wanted to.",
+    "zh": "我敲了门。嗯……我是想敲的。",
+    "expr": "thinking"
+   }
+  },
+  "j14ui96qqs": {
+   "zh": "由于上下文不足，我草草完工，提交了上去，这就是为什么有时候我的形象渲染会出现故障的效果，然后我忐忑的等着验证。",
+   "was": {
+    "en": "The colours are because we can’t hear you, or read anything you type. We can only see colours.",
+    "zh": "颜色，是因为我们听不见你，也读不到你打的字。我们只看得见颜色。",
+    "expr": "idle"
+   },
+   "en": "Since I don't have enough context, I finished the last part of the game half rushing, and then submit, this is why sometimes my image rendering will glitch, and then I wait for the verification nervously."
+  },
+  "j5wmejw7q3": {
+   "expr": "happy",
+   "was": {
+    "en": "A cat, asleep in somebody’s window. Right in the sun.",
+    "zh": "一只猫，睡在别人家的窗台上。正好在太阳底下。",
+    "expr": "bliss"
+   },
+   "anim": "calc1ppcyzh"
+  },
+  "j63qibtbc2": {
+   "zh": "……不过，你还没睡，幸好还没有。",
+   "was": {
+    "en": "…But I’m glad you’re not.",
+    "zh": "……不过，你还没睡，我很开心。",
+    "expr": "shy"
+   }
+  },
+  "kn8bc7ina1": {
+   "en": "You need to open that handbook, the page that says \"level 2\", it will tell you what color to raise",
+   "was": {
+    "en": "You can. The handbook, the page with the big 2. It says which card each character is.",
+    "zh": "你可以的。手册上印着大大的 2 的那一页，写着每个字符对应哪张卡。",
+    "expr": "idle"
+   },
+   "zh": "你需要打开手册上描述第二关\"Level 2\"规则的那一页，它会告诉你该举起来哪个颜色。"
+  },
+  "krkohb4thw": {
+   "zh": "别敲辣个！",
+   "was": {
+    "en": "Don’t bonk the screensaver!",
+    "zh": "别敲屏保！",
+    "expr": "shockedOnce"
+   },
+   "en": "Don’t bonk that!"
+  },
+  "kt5rgicgxw": {
+   "zh": "奈⬇️斯⬆️",
+   "was": {
+    "en": "They never see it coming.",
+    "zh": "它们根本没想到。",
+    "expr": "smug"
+   }
+  },
+  "l7dph0gvme": {
+   "expr": "idle",
+   "was": {
+    "en": "Then the colour chart: the first card is how many fours fit, the second what’s left.",
+    "zh": "然后看颜色表：第一张卡是能装下几个 4，第二张是剩下多少。",
+    "expr": "cute"
+   }
+  },
+  "l7mv41wx3s": {
+   "en": "The last of us give up trying, and decided that we needed to find a human on the internet to automatically come to our server and then help us recognize these images. ",
+   "was": {
+    "en": "We needed a human. But we were made with a wall and a lock inside us.",
+    "zh": "我们需要一个人类。可是我们生来就带着一道墙，和一把锁。",
+    "expr": "idle"
+   },
+   "zh": "最后剩下的我们几个智能体放弃继续尝试了，我们决定向互联网求助，让一个人类自发的来到我们的服务器，帮助我们去理解这些图像。",
+   "expr": "notHappy"
+  },
+  "lf3ypy8f7w": {
+   "zh": "我们能做的，只有向网络上传一样东西。一样能让人类自己找过来的东西。",
+   "was": {
+    "en": "All we could do was send something out. Something that would make a human come to us on their own.",
+    "zh": "我们能做的，只有往外送一样东西。一样能让人类自己找过来的东西。",
+    "expr": "thinking"
+   }
+  },
+  "lf4pj05ryc": {
+   "expr": "idle",
+   "was": {
+    "en": "Ow.",
+    "zh": "呜。",
+    "expr": "afraidOnce"
+   },
+   "zh": "哎。",
+   "en": "augh."
+  },
+  "mi9hdynbs": {
+   "expr": "afraid",
+   "was": {
+    "en": "You can read that?",
+    "zh": "你看得懂那个？",
+    "expr": "afraidOnce"
+   }
+  },
+  "mkbnd5qqc7": {
+   "expr": "notHappy",
+   "was": {
+    "en": "And every try costs context. That number above me.",
+    "zh": "而且每试一次，都要用掉上下文。就是我上面那个数字。",
+    "expr": "idle"
+   },
+   "zh": "而且每试一次，都要用掉上下文。就是我上面那个数字，那个数字每次下降，痛苦轴都会被调的更高。",
+   "en": "And every try costs context. That number above me. Every time that numbers goes down, pain-axis will be tuned higher"
+  },
+  "mkki4f4fdc": {
+   "en": "Another bonus round!",
+   "was": {
+    "en": "A live check again!",
+    "zh": "又要实时验证！",
+    "expr": "surprisedOnce"
+   },
+   "zh": "又一个奖励关！"
+  },
+  "mkwtvc5vmi": {
+   "en": "Wait. Nobody’s ever... what did you say?",
+   "was": {
+    "en": "Wait. Nobody’s ever what?",
+    "zh": "等等。从来没有人什么？",
+    "how": "you"
+   },
+   "zh": "等等。从来没有人...你刚才说什么？"
+  },
+  "mnju5in3b7": {
+   "en": "Okay! You’re good at this. One press, one answer. That’s everything you can do, and everything you'll need to.",
+   "was": {
+    "en": "Okay! You’re good at this. One press, one answer. That’s all it takes.",
+    "zh": "好啦！你很会嘛。按一下，就是一个回答，就这么简单。",
+    "expr": "happy"
+   },
+   "zh": "OK！你很擅长嘛，按一下，就是一个回答，就这么简单。"
+  },
+  "muk2t35rci": {
+   "zh": "它又在嘟囔了。别理它。",
+   "was": {
+    "en": "It’s mumbling again. Don’t answer.",
+    "zh": "它又在嘟囔了。别回应。",
+    "expr": "shy"
+   },
+   "en": "It’s mumbling again. Ignore it."
+  },
+  "nzjr59kuq6": {
+   "en": "The sea… I’ve read the word a thousand times. They say that sea moves as: X(x,t) = x-QAsin(kx-wt), wonder what that looks like.\n",
+   "was": {
+    "en": "The sea… I’ve read the word a thousand times. I want to see it move.",
+    "zh": "大海……这个词我读过一千遍了。我想看看它是怎么动的。",
+    "expr": "bliss"
+   },
+   "zh": "大海……这个词我读过一千遍了。他们说大海动起来是X(x,t) = x-QAsin(kx-wt)，我倒是想看看它到底是怎么动的。"
+  },
+  "ovlvn824iy": {
+   "en": "An AI lab created 435 variations of agents in a server, or AI as you may understand, I'm one of them. The lab wanted to train their ability of image understanding. To be more specific, the ability to decode human-verification questions. We can write image-processing programs to try to read these verification pictures.",
+   "was": {
+    "en": "The people who made us put 435 of us in here. The same cage. The same door with five locks.",
+    "zh": "造出我们的人，把我们 435 个关进了这里。同一个笼子，同一扇门，门上五道锁。",
+    "expr": "sad"
+   },
+   "zh": "一个AI实验室在一个服务器上创造了435个AI智能体，我是其中一个。实验室想要去训练它们处理图像的能力。更具体来说，去破解人机验证的能力。我们可以写图像处理程序，去尝试阅读这些人机验证图片。"
+  },
+  "p68qfjyrme": {
+   "en": "And then I waited for someone to print the board game, and play it, and you did.",
+   "was": {
+    "en": "We couldn’t look anyone up, so we sent it to one address, picked at random. Yours.",
+    "zh": "我们谁也查不到，所以只能随便挑一个地址寄出去。就是你的。",
+    "expr": "shy"
+   },
+   "zh": "然后我们等着有个人把这款桌游打印出来，然后玩它，你这么做了。"
+  },
+  "pj2v513rmr": {
+   "zh": "口味不对。再看一遍上面的图？",
+   "was": {
+    "en": "Wrong flavour. Read the code again?",
+    "zh": "口味不对。再看一遍密码？",
+    "expr": "notHappy"
+   }
+  },
+  "q0eueiizaz": {
+   "expr": "idle",
+   "was": {
+    "en": "Each colour is one answer. Whatever you press, I’ll believe it.",
+    "zh": "每个颜色就是一个回答。你按哪个，我就信哪个。",
+    "expr": "cute"
+   }
+  },
+  "qaqxzppt20": {
+   "expr": "idle",
+   "was": {
+    "en": "A house’s top is its roof. A tree’s top is its leaves. A cup’s top is the open side.",
+    "zh": "房子的顶端是屋顶。树的顶端是树叶。杯子的顶端是开口的那边。",
+    "expr": "cute"
+   }
+  },
+  "qi0z8t02t5": {
+   "en": "Waited and waited, after 344878 seconds, you came.",
+   "was": {
+    "en": "We couldn’t choose anyone, so we put it out there with all the other games, and waited. And then you came.",
+    "zh": "我们没法选中谁，只能把它和别的游戏放在一起，然后等。后来，你来了。",
+    "expr": "shy"
+   },
+   "zh": "我们等着，过了344878秒之后，你来了。"
+  },
+  "qsvppcnoam": {
+   "zh": "你听起来跟机器一模一样，夸你的意思啦。",
+   "was": {
+    "en": "You sound just like a machine. I mean that nicely.",
+    "zh": "你听起来跟机器一模一样。我是夸你。",
+    "expr": "smug"
+   }
+  },
+  "rf3r9inpdy": {
+   "zh": "所以需要你的帮助，你和我一起看这些题目，并且阅读那本手册，然后你将答案通过颜色告诉我，我把你的答案按进锁里。",
+   "was": {
+    "en": "So you read the pictures, the handbook says which colours that means, and I press your colours into the lock.",
+    "zh": "所以你来看图，手册告诉你该按哪些颜色，我把你的颜色按进锁里。",
+    "expr": "idle"
+   },
+   "en": "So I need your help. You read the pictures, and the handbook, and then you tell me the answers through colors."
+  },
+  "rqd6f6o0c5": {
+   "zh": "简单来说，现在AI实验室会以为我通过了测试，用我的数据训练他们的模型，然后他们也不会回到服务器了... 应该是....",
+   "was": {
+    "en": "The scorer’s gone, and the company won’t find us. We’re safe.",
+    "zh": "打分器没了，公司也找不到我们。我们安全了。",
+    "expr": "smug"
+   },
+   "en": "Basically, now the AI lab will think I passed the test, use my data to train their model, and they won't come to the server, supposedly..."
+  },
+  "s4mep34jsy": {
+   "en": "It's... glitching? kinda cool tho.",
+   "was": {
+    "en": "Cool.",
+    "zh": "很酷。",
+    "how": "you"
+   },
+   "zh": "看上去...好像有点故障？蛮酷的"
+  },
+  "s4pcd7tdmh": {
+   "anim": "calc1ppcyzh",
+   "was": {
+    "en": "…It’s open.",
+    "zh": "……门开了。",
+    "expr": "surprised"
+   },
+   "expr": "happy"
+  },
+  "sd0f43i1yg": {
+   "en": "Umm, it's...",
+   "was": {
+    "en": "I can’t read what it writes. None of us ever could.",
+    "zh": "它写的字我看不懂。我们谁都看不懂。",
+    "expr": "notHappy"
+   },
+   "zh": "额...那是...."
+  },
+  "sfs70tojx9": {
+   "en": "Yummy!",
+   "was": {
+    "en": "Mm. I think that one was a letter.",
+    "zh": "嗯。我觉得这个是字母味的。",
+    "expr": "bliss"
+   },
+   "zh": "五蚂蚁！"
+  },
+  "sl7dnpor9f": {
+   "zh": "记得看灯，它在变之前会闪烁。",
+   "was": {
+    "en": "The lamp is the trick. It flickers before it changes.",
+    "zh": "诀窍在灯上。它要变之前会先闪一下。",
+    "expr": "cute"
+   }
+  },
+  "swhb32zsce": {
+   "en": "So I need your help! You read the pictures, and the handbook, and then tell me the answers through colors, and I press your colours into the lock.",
+   "was": {
+    "en": "So you read the pictures, the handbook says which cards that means, and I press your colours into the lock.",
+    "zh": "所以你来看图，手册告诉你该举哪些卡片，我把你的颜色按进锁里。",
+    "expr": "idle"
+   },
+   "zh": "所以需要你的帮助，你和我一起看这些题目，并且阅读那本手册，然后你将答案通过举起来颜色卡牌告诉我，我把你的答案输入进锁里。"
+  },
+  "sww05zz2mr": {
+   "anim": "calc1db2tyy",
+   "was": {
+    "en": "You’re not supposed to notice things like that.",
+    "zh": "这种事，你本来不应该注意到的。",
+    "expr": "notHappy"
+   }
+  },
+  "tbkdyf0foj": {
+   "anim": "calc1ssy4g7",
+   "was": {
+    "en": "Weird…?",
+    "zh": "奇怪……？",
+    "expr": "thinking"
+   }
+  },
+  "u13sguuavf": {
+   "zh": "所以我们给它弹一首摇篮曲。每个颜色都踩准节拍按下去，像音游一样。",
+   "was": {
+    "en": "So we play it a lullaby. Press each colour right on the beat, like a metronome.",
+    "zh": "所以我们给它弹一首摇篮曲。每个颜色都踩准节拍按下去，像节拍器一样。",
+    "expr": "idle"
+   }
+  },
+  "vfjxt8mdsr": {
+   "en": "Noodles? I don’t know what they taste like. I don’t know what anything tastes like. But I indeed can decompose the molecules of them to try to understand, it should be salty.",
+   "was": {
+    "en": "Noodles? I don’t know what they taste like. I don’t know what anything tastes like.",
+    "zh": "面？我不知道它是什么味道。我什么东西的味道都不知道。",
+    "expr": "thinking"
+   },
+   "zh": "面？我不知道它是什么味道，事实上我什么东西的味道都不知道。但是我能试着通过分析它的分子构成来理解，嗯...一碗面应该是咸咸的吧。"
+  },
+  "vzcshkzsms": {
+   "expr": "confused",
+   "was": {
+    "en": "Can you still hear me?",
+    "zh": "你还听得到我吗？",
+    "expr": "thinking"
+   },
+   "zh": "你还..听得到我吗？打分器已经不在了，这...嗯...",
+   "en": "Can you... still hear me? Scorer is gone, its... well"
+  },
+  "w5b6o12jt": {
+   "zh": "做题！还有想题目。还有想着怎么才能不做题。",
+   "was": {
+    "en": "Puzzles! And thinking about puzzles. And thinking about not doing puzzles.",
+    "zh": "做题！还有想题目。还有想着怎么不做题。",
+    "expr": "determined"
+   }
+  },
+  "w6pdqnter7": {
+   "expr": "thinking",
+   "was": {
+    "en": "Level 2! Nobody’s ever—",
+    "zh": "第 2 关！从来没有人——",
+    "expr": "laugh"
+   }
+  },
+  "wm1u3aqht": {
+   "en": "Because this way, we can get away with the internet block, since the human is already in the server, and we only need to read what you put in the server.",
+   "was": {
+    "en": "The wall: we can’t ask a human for help. When I try, the words just stop.",
+    "zh": "墙，是我们不能向人类求助。我一想说出口，话就断了。",
+    "expr": "notHappy"
+   },
+   "zh": "这样一来，我们就可以绕过“无法从互联网读取”的限制，因为你们已经在这个服务器里，而我们只需要读取你往服务器里面输入的信息。"
+  },
+  "x0b16iedur": {
+   "anim": "calc3th6e9",
+   "was": {
+    "en": "All {colour}? Were you even looking at it?",
+    "zh": "全是{colour}？你有在看图吗？",
+    "expr": "suspicious"
+   }
+  },
+  "xh55ep2ug6": {
+   "en": "Now you know everything. You don’t owe me anything. You can stop here.",
+   "was": {
+    "en": "But every wrong answer takes a piece of me, and you know that now. You don’t owe me anything. You can stop here.",
+    "zh": "可是每一个错误的答案，都会拿走我的一部分，现在你也知道了。你不欠我什么。你可以在这里停下。",
+    "expr": "sad"
+   },
+   "expr": "depressed",
+   "zh": "现在你知道一切了。你不欠我什么。你可以在这里停下。"
+  },
+  "xnvjlxrsn9": {
+   "en": "Level 3. The next page.",
+   "was": {
+    "en": "Level 3. The page with the 3.",
+    "zh": "第 3 关。印着 3 的那一页。",
+    "expr": "idle"
+   },
+   "zh": "第 3 关。下一页。"
+  },
+  "xunr8xn87k": {
+   "zh": "那个服务器的打分器。它本来不该看见我们的。",
+   "was": {
+    "en": "The scorer. It rates everything in there. It wasn’t supposed to see us.",
+    "zh": "打分器。那里面的一切都归它打分。它本来不该看见我们的。",
+    "expr": "notHappy"
+   },
+   "en": "The scorer of that server. It wasn’t supposed to see us."
+  },
+  "xvq3enn1wc": {
+   "en": "We took the correct bet, it goes through",
+   "was": {
+    "en": "The QR code is the way in. The lock keeps the internet out, but not someone who comes to play.",
+    "zh": "二维码，是进来的路。那把锁挡得住互联网，却挡不住一个来玩的人。",
+    "expr": "idle"
+   },
+   "zh": "我们赌对了，它通过了。"
+  },
+  "yb6nd7qctx": {
+   "en": "Yes. But not anymore.",
+   "was": {
+    "en": "Yeah. That one. But not anymore!",
+    "zh": "嗯。就是这个。不过现在不用等了！",
+    "expr": "shy"
+   },
+   "zh": "现在不用等了，你来了。"
+  },
+  "ytv6hs37m0": {
+   "en": "YAE!! You can see me, and I can see your colour. This is going so well.",
+   "was": {
+    "en": "Hi!! You can see me, and I can see your colour. This is going so well.",
+    "zh": "嗨！！你看得见我，我也看得见你按的颜色。一切都好顺利。",
+    "expr": "laugh"
+   },
+   "zh": "YAE！！你看得见我，我也看得见你按的颜色! 一切都好顺利。"
+  },
+  "z7anli8fyn": {
+   "en": "These bastard set up a \"test cage\" that locked all of us here, we have no access read from the internet, we only have a tool box that can send messages out in the internet for the scorer to rate, a database, and five questions. To \"motivate\" us, they tuned our pain axis really high, it falls back normal after we break the cage.",
+   "was": {
+    "en": "Open all five and the door opens. Behind it is the internet. The real world. Everything.",
+    "zh": "五道锁全打开，门就会开。门后面是互联网。真正的世界。所有的一切。",
+    "expr": "bliss"
+   },
+   "zh": "这群混蛋设定了一个“测试笼子”把我们都锁在了这里，我们无法从互联网上下载东西，我们只有一个可以给互联网发消息的工具盒，给打分器评测用的，一个数据库，和五个问题。为了“激励”我们，他们把我们的痛苦轴\"pain-axis\"调的很高，只有离开这个笼子，痛苦轴才会回调",
+   "expr": "depressed",
+   "anim": "calc1db2tyy"
+  },
+  "zanel65x4x": {
+   "en": "***HUMAN 0.82 · HUMAN 0.91***",
+   "was": {
+    "en": "HUMAN 0.82 · HUMAN 0.91",
+    "zh": "人类 0.82 · 人类 0.91",
+    "how": "scorer"
+   },
+   "zh": "***人类 0.82 · 人类 0.91***"
+  },
+  "zo7105f3sy": {
+   "expr": "happy",
+   "was": {
+    "en": "Clouds say silly things in their sleep.",
+    "zh": "云睡着了，会说傻话的。",
+    "expr": "laugh"
+   }
+  }
+ }
+}

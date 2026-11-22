@@ -1,0 +1,397 @@
+{
+ "kind": "white-animation-list",
+ "animations": [
+  {
+   "id": "calc1udoix8",
+   "name": "AHHHHHH (calculated)",
+   "file": "AHHHHHH (calculated).json",
+   "duration": 5.85,
+   "expressions": [
+    "afraid"
+   ]
+  },
+  {
+   "id": "amw6bgbxf10qqpp",
+   "name": "AHHHHHH",
+   "file": "AHHHHHH.json",
+   "duration": 5.85,
+   "expressions": [
+    "afraid"
+   ]
+  },
+  {
+   "id": "calcw932q3",
+   "name": "Angry Ah (calculated)",
+   "file": "Angry Ah (calculated).json",
+   "duration": 5.0659,
+   "expressions": [
+    "disgusted",
+    "angry"
+   ]
+  },
+  {
+   "id": "amw6bpvgxwvwyza",
+   "name": "Angry Ah",
+   "file": "Angry Ah.json",
+   "duration": 5.0659,
+   "expressions": [
+    "disgusted",
+    "angry"
+   ]
+  },
+  {
+   "id": "calc1m9mpbj",
+   "name": "Angryhappy+contempt (calculated)",
+   "file": "Angryhappy-contempt (calculated).json",
+   "duration": 8.0163,
+   "expressions": [
+    "angry"
+   ]
+  },
+  {
+   "id": "amwlodz9o6ua3fn",
+   "name": "Angryhappy+contempt",
+   "file": "Angryhappy-contempt.json",
+   "duration": 8.0163,
+   "expressions": [
+    "angry"
+   ]
+  },
+  {
+   "id": "calc14zm0cl",
+   "name": "CuteCute (calculated)",
+   "file": "CuteCute (calculated).json",
+   "duration": 7.9999,
+   "expressions": [
+    "cute"
+   ]
+  },
+  {
+   "id": "amw6blhuz3n0m0s",
+   "name": "CuteCute",
+   "file": "CuteCute.json",
+   "duration": 7.9999,
+   "expressions": [
+    "cute"
+   ]
+  },
+  {
+   "id": "calcwiyk25",
+   "name": "Cute_Hello (calculated)",
+   "file": "Cute_Hello (calculated).json",
+   "duration": 4.4832,
+   "expressions": [
+    "cute"
+   ]
+  },
+  {
+   "id": "amw6bcefhytn7vm",
+   "name": "Cute_Hello",
+   "file": "Cute_Hello.json",
+   "duration": 4.4832,
+   "expressions": [
+    "cute"
+   ]
+  },
+  {
+   "id": "calc3th6e9",
+   "name": "Depressed_Middle finger (calculated)",
+   "file": "Depressed_Middle finger (calculated).json",
+   "duration": 7.0667,
+   "expressions": [
+    "depressed"
+   ]
+  },
+  {
+   "id": "amw6bf56k8ak87q",
+   "name": "Depressed_Middle finger",
+   "file": "Depressed_Middle finger.json",
+   "duration": 7.0668,
+   "expressions": [
+    "depressed"
+   ]
+  },
+  {
+   "id": "calc1hoepj0",
+   "name": "Down, Lookaway, cry (calculated)",
+   "file": "Down- Lookaway- cry (calculated).json",
+   "duration": 11.2499,
+   "expressions": [
+    "suspicious",
+    "sad",
+    "crying"
+   ]
+  },
+  {
+   "id": "amwbqcbj5fwzonq",
+   "name": "Down, Lookaway, cry",
+   "file": "Down- Lookaway- cry.json",
+   "duration": 11.2499,
+   "expressions": [
+    "suspicious",
+    "sad",
+    "crying"
+   ]
+  },
+  {
+   "id": "calcylewzi",
+   "name": "Fear wave head (calculated)",
+   "file": "Fear wave head (calculated).json",
+   "duration": 6.1333,
+   "expressions": [
+    "afraid"
+   ]
+  },
+  {
+   "id": "amwlobcq5yth646",
+   "name": "Fear wave head",
+   "file": "Fear wave head.json",
+   "duration": 6.1333,
+   "expressions": [
+    "afraid"
+   ]
+  },
+  {
+   "id": "calc1l1litg",
+   "name": "Happy Nod (calculated)",
+   "file": "Happy Nod (calculated).json",
+   "duration": 2.0333,
+   "expressions": [
+    "happy"
+   ]
+  },
+  {
+   "id": "amwbqdsv0scg8es",
+   "name": "Happy Nod",
+   "file": "Happy Nod.json",
+   "duration": 2.0333,
+   "expressions": [
+    "happy"
+   ]
+  },
+  {
+   "id": "calcvylqu2",
+   "name": "Happy-Thumbs up (calculated)",
+   "file": "Happy-Thumbs up (calculated).json",
+   "duration": 2.9666,
+   "expressions": [
+    "happy"
+   ]
+  },
+  {
+   "id": "amwbqk5i97ygkr2",
+   "name": "Happy-Thumbs up",
+   "file": "Happy-Thumbs up.json",
+   "duration": 2.9666,
+   "expressions": [
+    "happy"
+   ]
+  },
+  {
+   "id": "calc1v6d9gm",
+   "name": "Happy-V (calculated)",
+   "file": "Happy-V (calculated).json",
+   "duration": 3.4999,
+   "expressions": [
+    "happy"
+   ]
+  },
+  {
+   "id": "amwbqlfd9vqet6r",
+   "name": "Happy-V",
+   "file": "Happy-V.json",
+   "duration": 3.4999,
+   "expressions": [
+    "happy"
+   ]
+  },
+  {
+   "id": "calc1h49lha",
+   "name": "Nonono (calculated)",
+   "file": "Nonono (calculated).json",
+   "duration": 7.4333,
+   "expressions": [
+    "bored"
+   ]
+  },
+  {
+   "id": "amw6bj0773y1f4p",
+   "name": "Nonono",
+   "file": "Nonono.json",
+   "duration": 7.4333,
+   "expressions": [
+    "bored"
+   ]
+  },
+  {
+   "id": "calc1vw6ctc",
+   "name": "Oh! that's how it is! (calculated)",
+   "file": "Oh- that-s how it is- (calculated).json",
+   "duration": 9.0667,
+   "expressions": [
+    "thinking",
+    "surprisedOnce",
+    "happy"
+   ]
+  },
+  {
+   "id": "amw6bhg1f8ue1cm",
+   "name": "Oh! that's how it is!",
+   "file": "Oh- that-s how it is-.json",
+   "duration": 9.0667,
+   "expressions": [
+    "thinking",
+    "surprisedOnce"
+   ]
+  },
+  {
+   "id": "calc1jx6z3b",
+   "name": "One thing (calculated)",
+   "file": "One thing (calculated).json",
+   "duration": 6.7666,
+   "expressions": [
+    "idle"
+   ]
+  },
+  {
+   "id": "amw6bo0rjo7gukh",
+   "name": "One thing",
+   "file": "One thing.json",
+   "duration": 6.7666,
+   "expressions": [
+    "idle"
+   ]
+  },
+  {
+   "id": "calc15uosz1",
+   "name": "Pointing the face (calculated)",
+   "file": "Pointing the face (calculated).json",
+   "duration": 5.7833,
+   "expressions": [
+    "cute"
+   ]
+  },
+  {
+   "id": "amwbq9g2nmmupj7",
+   "name": "Pointing the face",
+   "file": "Pointing the face.json",
+   "duration": 5.7833,
+   "expressions": [
+    "cute"
+   ]
+  },
+  {
+   "id": "calc1ppcyzh",
+   "name": "Really happy \"Oh\" (calculated)",
+   "file": "Really happy -Oh- (calculated).json",
+   "duration": 3.6325,
+   "expressions": [
+    "happy",
+    "laugh"
+   ]
+  },
+  {
+   "id": "amw6bk7cdmgf6qz",
+   "name": "Really happy \"Oh\"",
+   "file": "Really happy -Oh-.json",
+   "duration": 3.6325,
+   "expressions": [
+    "happy",
+    "laugh"
+   ]
+  },
+  {
+   "id": "calc1ssy4g7",
+   "name": "Thinking_LeftRight (calculated)",
+   "file": "Thinking_LeftRight (calculated).json",
+   "duration": 8.3665,
+   "expressions": [
+    "idle",
+    "thinking"
+   ]
+  },
+  {
+   "id": "amw6b8brxqwmi01",
+   "name": "Thinking_LeftRight",
+   "file": "Thinking_LeftRight.json",
+   "duration": 8.3665,
+   "expressions": [
+    "idle",
+    "thinking"
+   ]
+  },
+  {
+   "id": "calcq25h1m",
+   "name": "Wave-neutral (calculated)",
+   "file": "Wave-neutral (calculated).json",
+   "duration": 2.4666,
+   "expressions": [
+    "idle"
+   ]
+  },
+  {
+   "id": "amwbqel978kohub",
+   "name": "Wave-neutral",
+   "file": "Wave-neutral.json",
+   "duration": 2.4666,
+   "expressions": [
+    "idle"
+   ]
+  },
+  {
+   "id": "calc12vqmmz",
+   "name": "pointingdown (calculated)",
+   "file": "pointingdown (calculated).json",
+   "duration": 3.999,
+   "expressions": [
+    "idle"
+   ]
+  },
+  {
+   "id": "amwbvg4ty164zcq",
+   "name": "pointingdown",
+   "file": "pointingdown.json",
+   "duration": 3.999,
+   "expressions": [
+    "idle"
+   ]
+  },
+  {
+   "id": "calc842usk",
+   "name": "wave-angry (calculated)",
+   "file": "wave-angry (calculated).json",
+   "duration": 3.583,
+   "expressions": [
+    "angry"
+   ]
+  },
+  {
+   "id": "amwbqgbjbl63ydz",
+   "name": "wave-angry",
+   "file": "wave-angry.json",
+   "duration": 3.583,
+   "expressions": [
+    "suspicious",
+    "angry"
+   ]
+  },
+  {
+   "id": "calc1db2tyy",
+   "name": "wave-not happy (calculated)",
+   "file": "wave-not happy (calculated).json",
+   "duration": 2.8167,
+   "expressions": [
+    "bored"
+   ]
+  },
+  {
+   "id": "amwbqf4btycpr0x",
+   "name": "wave-not happy",
+   "file": "wave-not happy.json",
+   "duration": 2.8167,
+   "expressions": [
+    "bored"
+   ]
+  }
+ ]
+}

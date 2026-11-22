@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>White 3D</title>
+<style>
+  :root { color-scheme: dark; --bg: #09090b; --fg: #e9e9ee; --dim: #8b8b96; --line: #26262d; --acc: #f2f2f2; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--fg); font: 13px/1.45 ui-sans-serif, system-ui, -apple-system, "Helvetica Neue", sans-serif; overflow: hidden; }
+  #world { position: fixed; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; cursor: grab; }
+  #world:active { cursor: grabbing; }
+  /* White Engine's own canvas: it draws White's picture, which the world's canvas shows; never seen itself */
+  #stage { position: fixed; left: 0; top: 0; width: 640px; height: 640px; pointer-events: none; opacity: 0; z-index: -1; }
+  #stage canvas { position: absolute; left: 0; top: 0; }
+  #panel { position: fixed; right: 12px; top: 12px; bottom: 12px; width: 268px; overflow: auto; padding: 12px 12px 16px; background: rgba(14, 14, 17, .86); border: 1px solid var(--line); border-radius: 12px; backdrop-filter: blur(10px); }
+  #panel h1 { font-size: 14px; margin: 0 0 2px; letter-spacing: .04em; }
+  #panel h2 { font-size: 11px; margin: 14px 0 6px; color: var(--dim); letter-spacing: .09em; text-transform: uppercase; font-weight: 600; }
+  #panel p { margin: 0 0 6px; color: var(--dim); }
+  .row { display: flex; flex-wrap: wrap; gap: 5px; }
+  button { font: inherit; color: var(--fg); background: #17171c; border: 1px solid var(--line); border-radius: 7px; padding: 4px 8px; cursor: pointer; }
+  button:hover { border-color: #4a4a55; }
+  button[aria-pressed="true"] { background: var(--acc); color: #0b0b0d; border-color: var(--acc); }
+  label.s { display: grid; grid-template-columns: 86px 1fr 40px; align-items: center; gap: 6px; margin: 2px 0; color: var(--dim); }
+  label.s input { width: 100%; accent-color: var(--acc); }
+  label.s output { color: var(--fg); text-align: right; font-variant-numeric: tabular-nums; }
+  #hud { position: fixed; left: 12px; bottom: 10px; color: var(--dim); font: 11px/1.5 ui-monospace, Menlo, monospace; white-space: pre; pointer-events: none; }
+  #boot { position: fixed; inset: 0; display: grid; place-items: center; color: var(--dim); }
+  #boot.err { color: #ff8a8a; padding: 0 10%; text-align: center; }
+  body.shot #panel, body.shot #hud { display: none; }
+  body.flat #stage { opacity: 1; z-index: 3; width: 100vmin; height: 100vmin; }
+  body.flat #stage canvas { width: 100%; height: 100%; }
+  body.flat #panel, body.flat #hud, body.flat #world { display: none; }
+</style>
+</head>
+<body>
+<canvas id="world"></canvas>
+<div id="stage" aria-hidden="true"><canvas id="gl"></canvas><canvas id="ov"></canvas></div>
+<aside id="side" hidden></aside>
+<aside id="panel"></aside>
+<div id="hud"></div>
+<div id="boot">White 3D is starting…</div>
+<script>window.WHITE_SITE = true;</script>
+<script src="app/assets.js?v=588397d46d"></script>
+<script src="app/white-engine.js?v=02b55ae913"></script>
+<script src="app/white3d.js?v=118e09f4c6"></script>
+</body>
+</html>
