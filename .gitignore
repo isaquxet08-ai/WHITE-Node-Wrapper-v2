@@ -1,0 +1,12 @@
+
+# 原作者游戏资源不入库
+app/src/main/assets/game/
+
+# 签名密钥不入库
+*.keystore
+*.jks
+
+build/
+.gradle/
+local.properties
+*.apk

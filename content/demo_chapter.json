@@ -1,0 +1,14 @@
+{
+  "pack": { "id": "demo", "version": "0.1.0", "engine": "^0.1", "author": "WHITE Workshop", "checksum": "TBD" },
+  "chapters": {
+    "intro": {
+      "nodes": [
+        { "id": "n1", "type": "line", "who": "WHITE", "text": "(引擎自检: 原生渲染循环运转中)", "expr": "happy" },
+        { "id": "n2", "type": "line", "who": "WHITE", "text": "(这是引擎 demo 的占位内容, 与原版游戏无关)", "expr": "neutral" },
+        { "id": "n3", "type": "card-test", "cards": ["R", "Y", "G", "B"], "onPress": "n4" },
+        { "id": "n4", "type": "line", "who": "WHITE", "text": "(按键事件已通过 Mod ABI 广播)", "expr": "happy" }
+      ],
+      "start": "n1"
+    }
+  }
+}

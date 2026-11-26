@@ -1,0 +1,16 @@
+plugins { id 'com.android.application'; id 'org.jetbrains.kotlin.android' }
+android {
+    namespace 'com.white.engine'
+    compileSdk 34
+    defaultConfig { applicationId "com.white.game.cliop"; minSdk 24; targetSdk 28; versionCode 96; versionName "4.9.4-native" }
+    buildTypes { release { minifyEnabled false } }
+    lint { checkReleaseBuilds false; abortOnError false }   // T87: lintVitalRelease 误报 targetSdk(Google Play 仅对上架生效, 本地侧载不受影响)
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+    kotlinOptions { jvmTarget = '17' }
+}
+dependencies {
+    implementation 'androidx.core:core-ktx:1.12.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'wang.harlon.quickjs:wrapper:0.0.18'   // v4.4.5: 换库 — cashapp evaluate 不泵微任务, 所有 await 悬死 (黑屏根因)
+    // M4: QuickJS 沙箱 → implementation 'com.dokar.quickjs:quickjs-android:...' (到时选型)
+}

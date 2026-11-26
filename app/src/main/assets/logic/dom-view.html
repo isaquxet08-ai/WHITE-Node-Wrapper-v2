@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover,user-scalable=no">
+<title>WHITE DOM UI</title>
+<!-- v4.6.2: base 由 MainActivity 写盘时替换为 files/game/ 绝对路径 — 页面本体放独立目录
+     (files/dom/), 不再依赖 game/ 解压目录 (versionCode 变化触发重解压会清掉它 → ERR_FILE_NOT_FOUND) -->
+<base href="__GAME_DIR_ABS__">
+<!-- v4.6.3: CSS 由 MainActivity 写盘时内联 (__GAME_CSS__ 占位) — v4.6.2 诊断: WebView 内
+     game.css 从 file:// 相对加载失败 → 整站裸样式 (多场景混显/默认按钮)。<style> 内联零请求;
+     字体 url(../assets/fonts/...) 由写盘时替换为绝对 file:// 路径 -->
+<style id="game-css">__GAME_CSS__</style>
+<style>
+  /* 镜像覆盖: GL 世界画在底下的 GLSurfaceView, 这里只渲染 UI 层 */
+  html, body { background: transparent !important; overflow: hidden; height: 100%; }
+  body:after { display: none !important; }                       /* grain 纹理省了 */
+  #stage { background: transparent !important; }                  /* GL 层代替 #stage 背景 */
+  #stage canvas, canvas#gl, canvas#ov, canvas.static { display: none !important; }  /* 画布归 GLSurfaceView */
+  #view > * { pointer-events: auto; }                             /* UI 可点 */
+</style>
+</head>
+<body>
+<div id="view"></div>
+<script>
+  // shim domSync → innerHTML 注入
+  window.__setDom = function (html) {
+    var v = document.getElementById('view');
+    if (v && html !== v.__last) { v.innerHTML = html; v.__last = html; }
+  };
+  // 原始触摸 → 输入泵 (拼图区域交互; CSS px 坐标, Kotlin 端 ×density)
+  ['pointerdown', 'pointermove', 'pointerup', 'pointercancel'].forEach(function (t) {
+    document.addEventListener(t, function (e) {
+      try { WhiteDom.input(t.replace('pointer', ''), e.clientX, e.clientY); } catch (err) {}
+    }, { passive: true });
+  });
+  // DOM 点击 → eid 桥回 (按钮/菜单交互)
+  document.addEventListener('click', function (e) {
+    var t = e.target && e.target.closest ? e.target.closest('[data-eid]') : null;
+    if (t) {
+      var eid = t.getAttribute('data-eid');
+      console.log('[dom-view] 点击 → eid=' + eid + ' <' + (t.tagName || '').toLowerCase() + '>');
+      try { WhiteDom.click(eid); } catch (err) { console.log('[dom-view] WhiteDom.click 异常: ' + err.message); }
+    } else {
+      console.log('[dom-view] 点击未命中 data-eid: target=' + (e.target && e.target.tagName) + ' class=' + (e.target && e.target.className));
+    }
+  });
+  // 防双击缩放/长按菜单
+  document.addEventListener('contextmenu', function (e) { e.preventDefault(); });
+  console.log('[dom-view] 镜像页就绪');
+</script>
+<!-- v4.6.9 音频板块: shim WebAudio 桩 → 指令桥 → 本页真 WebAudio 执行 (MainActivity 写盘时内联) -->
+<script>__AUDIO_PROXY__</script>
+</body>
+</html>
